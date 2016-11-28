@@ -2,7 +2,7 @@
 layout: post
 title: "Sample Post 1"
 date:   2014-10-26 18:19:27
-categories: ['Sample Post', 'update']
+categories: ['sample post', 'update']
 tags: sample demo hipster-ipsum
 permalink: sample-post-1
 hero: images/image.jpg

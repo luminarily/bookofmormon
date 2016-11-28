@@ -2,7 +2,7 @@
 layout: post
 title:  "Sample Post 2"
 date:   2014-10-27 18:19:27
-categories: ['Sample Post', 'update']
+categories: ['sample post', 'update']
 tags: sample demo samuel-jackson-ipsum
 permalink: sample-post-2
 hero: images/image.jpg

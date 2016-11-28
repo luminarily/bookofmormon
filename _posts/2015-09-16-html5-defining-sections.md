@@ -2,7 +2,7 @@
 layout: post
 title:  "Defining Sections in HTML5"
 date:   2015-09-16 18:19:27
-categories: HTML5
+categories: html5
 tags: tutorial
 permalink: defining-sections-in-html5
 ---

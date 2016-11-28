@@ -2,7 +2,7 @@
 layout: post
 title:  "Comparing CSS PREprocessors"
 date:   2015-08-10 18:19:27
-categories: CSS
+categories: css
 tags: preprocessors
 permalink: comparing-css-preprocessors
 excerpt: "Comparing your favourite CSS preprocessors, side by side."
