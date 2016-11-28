@@ -5,6 +5,7 @@ date:   2015-10-02 18:19:27
 categories: jekyll welcome
 permalink: welcome-to-yellowblue
 author: YB stuff
+published: false
 ---
 Yellowblue is a modern, clean and responsive Jekyll theme.
 

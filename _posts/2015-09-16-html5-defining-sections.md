@@ -5,6 +5,7 @@ date:   2015-09-16 18:19:27
 categories: html5
 tags: tutorial
 permalink: defining-sections-in-html5
+published: false
 ---
 All content lying inside the <code class="language-markup"><body></code> element is part of a section. Sections in HTML5 can be nested. Beside the main section, defined by the <code class="language-markup"><body></code> element, section limits are defined either explicitly or implicitly. Explicitly-defined sections are the content within <code class="language-markup"><body></code>,  <code class="language-markup"><section></code>,  <code class="language-markup"><article></code>,  <code class="language-markup"><aside></code>, and <code class="language-markup"><nav></code> tags.
 

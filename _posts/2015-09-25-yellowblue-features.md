@@ -5,6 +5,7 @@ date:   2015-09-25 18:19:27
 categories: jekyll
 tags: ['Site Features']
 comments: true
+published: false
 ---
 - Clean and modern design
 - Fully responsive, built using the 'Mobile First' technique

@@ -5,6 +5,7 @@ date:   2015-08-17 18:19:27
 categories: jekyll
 tags: tutorial installation
 permalink: how-to-install-jekyll
+published: false
 ---
 Getting Jekyll installed and ready-to-go should only take a few minutes. If it ever becomes a pain in the ass, please [file an issue][issue] (or submit a pull request) describing the issue you encountered and how we might make the process easier.
 
