@@ -6,7 +6,12 @@ categories: 'politics'
 published: false
 ---
 
-### Great and Spacious Building
+## Great and Spacious Building
+
+I believe we're seeing the collpase of the Great and Spacious Building (GaSB) as described in the Book of Mormon. As odd as it may sound, the election has created an environment where the powers
+
+I'm writing this blog because I believe this collapse is coming and I don't want people to miss it. We've been waiting on this prophecy for hundreds of years; how sad if we miss it for not looking.
+
 
 ## Great & Spacious Building
 
