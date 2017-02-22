@@ -18,6 +18,8 @@
 
     {% if page.image %}
       <meta property="og:image:secure_url" content="{{ page.image }}" >
+      <meta property="og:image" content="{{ page.image }}" >
+      <meta property="og:image:url" content="{{ page.image }}" >
     {% else %}
       <meta property="og:image" content="/images/general/adam-ondi-ahman-logo2.png" >
     {% endif %}
