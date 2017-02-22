@@ -10,7 +10,11 @@
             {{ site.title }}
         {% endif %}
     </title>
-    <meta name="description" content="{{ site.description }}">
+    {% if page.description %}
+        <meta name="description" content="{{ page.description }}">
+    {% else %}
+        <meta name="description" content="{{ site.description }}">
+    {% endif %}
 
     <link rel="icon" type="images/vnd.microsoft.icon" href="/favicon.ico" />
 	<link rel="icon" type="images/png" href="/favicon.png" />
