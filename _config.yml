@@ -13,6 +13,7 @@ markdown: kramdown
 exclude: ['node_modules', 'Gruntfile.js', 'package.json']
 
 highlighter: pygments
+pygments: true
 
 # YB Settings
 excerpt_separator: <!-- more -->
