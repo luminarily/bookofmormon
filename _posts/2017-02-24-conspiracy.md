@@ -15,10 +15,6 @@ They push agendas which are anti-family - in subtle ways, non-direct ways. They 
 
 Mormons are taught, by their own scripture, to **believe** in conspiracies - that they are real and that they are a legitimate threat to freedom. In fact, we are taught *by our own scripture* that there is a secret combination - a New World Order - (note the *singular* use of the word in the below verse) setup among the kingdoms of the gentiles that is powerful enough to enslave the planet.
 
-Read for yourself...
-
-## Book of Mormon, Ether 8:23-25
-
 > [Ether 8:23-25][18] Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown unto you, that thereby ye may repent of your sins, and **suffer not that these murderous combinations shall get above you**, which are built up to get power and gain—and the work, yea, even the work of destruction come upon you, yea, even the sword of the justice of the Eternal God shall fall upon you, to your overthrow and destruction if ye shall suffer these things to be.
 >
 > 24 Wherefore, the Lord commandeth you, when ye shall see these things come among you that ye shall awake to a sense of your awful situation, because of **this secret combination** which shall be among you; or wo be unto it, because of the blood of them who have been slain; for they cry from the dust for vengeance upon it, and also upon those who built it up.
@@ -31,23 +27,25 @@ Ponder that for a time.
 
 I've observed a tendency among my fellow Mormons to dismiss conspiracy through attributing it all to Satan (**thus minimizing earthly organization and form, absolving mortal institutions and technologies of any guilt**). While Satan is the head of his church, many don't realize that Satan has setup earthly bureaucracies and armies interwoven among the nations of the world.
 
-### YOU are a part of these SYSTEMS whether you know it or not - and until you see them for what they are, you risk being proponents of those systems - upholding them, unknowingly, because that's what they teach you.
+#### YOU are a part of these SYSTEMS (in the world) whether you know it or not - and until you see them for what they are, you risk being proponents of those systems (of the world) - upholding them, however unknowingly.
 
-<div class="alert-info">
-	What eventually lead to the entire destruction of the people of Nephi in the Book of Mormon?
-</div>
+---
+
+A related question illustrates the importance of recognizing the tell-tale signs of conspiracies and secret combinations.
+
+# What eventually lead to the entire destruction of the people of Nephi in the Book of Mormon?
 
 > [Ether 8:21][7] And they (the secret combinations) have caused the destruction of this people of whom I am now speaking, and also the destruction of the people of Nephi.
 
-These secret combinations were upheld through specific actions of mortal men and women. They didn't just coalesce out of the ether of Outer Darkness into a non-definable form. No, [secret combinations have specific forms][4] - albeit in secret and darkness.
+These secret combinations were upheld through **specific** actions / oaths of mortal men and women. They didn't just coalesce out of the ether of Outer Darkness into a non-definable form. No, [secret combinations have specific forms][4] - albeit in secret and darkness.
 
-The Book of Mormon refers to secret combinations / conspiracies [26 times][8]. That's 26 times we're counseled in the Book of Mormon essentially to not dismiss conspiracies, but to take them seriously as if our very freedoms depended on fighting and overcoming them.
+**The Book of Mormon refers to secret combinations / conspiracies [26 times][8].** That's 26 times we're counseled in the Book of Mormon essentially to not dismiss conspiracies, but to take them seriously as if our very freedoms depended on fighting and overcoming them.
 
 This is EXACTLY what the Gentiles were doing when they voted Trump on election day.
 
 Wow.. I can't believe I wrote that, but it's true!
 
-We voted against the "false song of globalism". We voted against the New World Order. We voted against Open Borders (more on that in subsequent posts...)
+### We voted against the "false song of globalism". We voted against the New World Order. We voted against the Secret Combination that seeks the overthrow of all world democracies.
 
 Yet, it as been common for Mormons to dismiss any claim of conspiracy as simply a theory without merit. A gentle note: Don't think you're open to the reality of conspiracies now that Trump has been elected. You can't say you suddenly have the vision to see conspiracies when for the past five or ten years you've denied their existence or simply ignored the possibility.
 
@@ -74,9 +72,9 @@ If you are to understand the year 2016 and why America chose Donald Trump - desp
 
 If you are not aware of these workings in darkness, and you do not seek to understand them at least a little, then it seems only natural to hate Trump and think his supporters have lost their minds.
 
-This is not the be-all, end-all - this is a piece of the puzzle in taking the red pill to wake up to our awful situation.
+This is not the be-all, end-all - this is <i><b>*a piece*</b></i> of the puzzle in taking the red pill to wake up to our awful situation.
 
-I took Mormon's advice and woke up nearly five years ago because some friends told me about the Federal Reserve and how it's a private entity. This led to a five-year long search and study of the world and what the driving forces are. What I found disturbed me and caused me to bear a burden for many years. So, if Trump's victory is hurting you, it should. You're experiencing the *opposing energies* that were already there, at play between two powerful forces. Now, what was already there, is out in the open - thank Heaven. Trump supporters have been bearing this burden for years prior to the election.
+I took [Mormon's advice][20] and woke up nearly five years ago because some friends told me about the Federal Reserve and how it's a private entity. This led to a five-year long search and study of the world and what the driving forces are. What I found disturbed me and caused me to bear a burden for many years. So, if Trump's victory is hurting you, it should. You're experiencing the *opposing energies* that were already there, at play between two powerful forces. Now, it's finally all out in the open - thank Heaven. Trump supporters have been bearing this burden for years prior to the election. He simple harnessed the song of angry people into a political movement.
 
 Would you like to know more? ...
 
@@ -129,5 +127,6 @@ Conspiracies exist, and we must wake up from the slumber that mainstream media e
 [15]: https://www.youtube.com/watch?v=Xbp6umQT58A
 [16]: https://www.youtube.com/watch?v=D1uARFrI9U4
 [17]: https://www.youtube.com/watch?v=0oMEuyhBkRo
-[18]: https://www.lds.org/scriptures/bofm/ether/8.19-25?lang=en
+[18]: https://www.lds.org/scriptures/bofm/ether/8.19-25?lang=en#19
 [19]: https://www.lds.org/scriptures/bofm/2-ne/28.21?lang=eng#20
+[20]: https://www.lds.org/scriptures/bofm/ether/8.24?lang=eng#24
