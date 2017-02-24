@@ -7,6 +7,7 @@ tags: 'politics conspiracies'
 published: true
 description: 'Mormon Red Pill: Conspiracies within governments destroy nations.'
 post_author: chasmiclysm
+comments: true
 ---
 
 Conspiracies are real. They are sinister. And they are *massive*.
