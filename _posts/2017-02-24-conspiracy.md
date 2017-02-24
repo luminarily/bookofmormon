@@ -108,7 +108,7 @@ There's so much more. Don't buy into the notions...
 
 Don't be naive. Corruption seeks: MONEY. POWER. EVASION OF LAW. At *any* cost.
 
-Conspiracies exist, and we must wake up from the slumber that mainstream media entrances us with if we are to see the truth.
+Conspiracies exist, and we must wake up from the slumber with which mainstream media entrances us grasp the context of reality - if we are to recognize the truth.
 
 
 [1]: https://www.lds.org/manual/preparing-for-exaltation-teachers-manual/lesson-23-obedience-the-first-law-of-heaven?lang=eng
