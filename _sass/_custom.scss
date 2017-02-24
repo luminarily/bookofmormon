@@ -18,9 +18,19 @@
 }
 
 pre {
-    white-space: pre-wrap;       /* Since CSS 2.1 */
-    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-    white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+        white-space: pre-wrap !important;       /* CSS 3 */
+        white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+        white-space: -pre-wrap !important;      /* Opera 4-6 */
+        white-space: -o-pre-wrap !important;    /* Opera 7 */
+        word-wrap: break-word !important;       /* Internet Explorer 5.5+ */
+        overflow: auto !important;
+        width: 75%;
+    }
+
+blockquote {
+	color: ghostwhite;
+	border: 10px solid grey;
+	background-color: #2b1d0e;
+	border-radius: 25px;
+	padding: 15px;
 }
