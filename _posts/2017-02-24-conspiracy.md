@@ -11,12 +11,6 @@ post_author: chasmiclysm
 
 Conspiracies are real. They are sinister. And they are *massive*.
 
-```ruby
-	if 3 < 4
-		puts 'hello'
-	end
-```
-
 They push agendas which are anti-family - in subtle ways, non-direct ways. They always say "follow the money". In the case of social agendas and global conspiracies, follow the effect these trends have on the family and you will stumble upon something interesting and sobering.
 
 Mormons are taught, by their own scripture, to **believe** in conspiracies - that they are real and that they are a legitimate threat to freedom. In fact, we are taught *by our own scripture* that there is a secret combination setup among the kingdoms of the gentiles that is powerful enough to enslave the planet!!
