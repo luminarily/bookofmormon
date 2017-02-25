@@ -65,11 +65,11 @@ How can Mormons dismiss conspiracies when their own Book of Mormon explicitely t
 I posit two main reasons, though I am sure there are many more:
 
 
-1. Mormon's believe that obedience is the [first law of heaven][1]. Because they value obedience - to God's law and to his ordained authorities on the earth. I think there is a tendency among some to project this reference for authority to *worldy authorities*. This implies trust that worldy authorities have best interests at heart.
+1. Mormon's believe that obedience is the [first law of heaven][1]. Because they value obedience - to God's law and to his ordained authorities on the earth - I think there is a tendency among some to project this reverence for authority on to *worldy authorities*. This is incorrect. Although we obey the law of the land, that doesn't mean we necessarily trust any worldy instution that bears wordly authority - - - *\*cough\* big pharma* *\*cough\* career politicians* *\*cough\* etc...* - - - to always do things in our best interests and to always tell us the truth.
 
 2. Prior to the election of Donald Trump, many were of the feeling that all was well in Zion and that more of the same was better than what Trump had to offer. Because of their feeling that was well, now that Trump is president, it's a natural consequence to feel that everything has fallen apart.
 
-> 21 And others will he pacify, and lull them away into carnal security, that they will say: All is well in Zion; yea, Zion prospereth, all is well—and thus the devil cheateth their souls, and leadeth them away carefully down to hell.
+> 21 And others will he pacify, and lull them away into carnal security, that they will say: **All is well in Zion; yea, Zion prospereth, all is well**—*and thus the devil cheateth their souls, and leadeth them away carefully down to hell*.
 > 
 > [2nd Nephi 28:21][19]
 
