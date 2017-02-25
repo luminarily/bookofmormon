@@ -12,9 +12,7 @@ Many Mormons have been shocked by what has happened in America and the world rec
 
 Non-mormons who find this site may find it fascinating as well as refreshing to see that, despite certain prominent Mormons and their views / actions, there are many of us who are awake to the dire situation that has been developing much over the last ten years in our beloved country.
 
-You are affected by the information you know, and unswayed by the information you don't know. The great heads of the beast of revelation are spewing blasphemies. The media outlets are part of these heads and if you only get your information and spin from them, you will inevitably place evil for good and good for evil. I have created this website as a way to help provide a BASED Mormon perspective.
-
-I love the Book of Mormon. I find it to be on par with the Bible as a truly inspired work. Many patriotic, conservative non-members of the Church have found the behavior and beliefs of some Mormons to be repugnant. I am here to shed some light on what the Book of Mormon is actually saying.
+You are affected by the information you know, and unswayed by the information you don't know. The great heads of the beast of revelation are spewing blasphemies. The media outlets are part of these heads and if you only get your information and spin from them, you will inevitably place evil for good and good for evil. I have created this website as a way to help provide a BASED Mormon perspective - deriving perspective on what the Book of Mormon truly says. The Book of Mormon is de-fact Americana folks, believe me ;)
 
 As you read these posts, I think you're going to be floored at how accurately the Book of Mormon has prophesied today's current events and how in-line it is with the return of **conservatism** in the United States.
 
