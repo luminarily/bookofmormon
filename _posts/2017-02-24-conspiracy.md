@@ -20,7 +20,7 @@ Mormons are taught, by their own scripture, to **believe** in conspiracies - tha
 
 > [Ether 8:23-25][18] Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown unto you, that thereby ye may repent of your sins, and **suffer not that these murderous combinations shall get above you**, which are built up to get power and gain—and the work, yea, even the work of destruction come upon you, yea, even the sword of the justice of the Eternal God shall fall upon you, to your overthrow and destruction if ye shall suffer these things to be.
 >
-> 24 Wherefore, the Lord commandeth you, when ye shall see these things come among you that ye shall awake to a sense of your awful situation, because of **this secret combination** which shall be among you; or wo be unto it, because of the blood of them who have been slain; for they cry from the dust for vengeance upon it, and also upon those who built it up.
+> 24 Wherefore, the Lord commandeth you, when ye shall see these things come among you that ye shall **awake to a sense of your awful situation**, because of **this secret combination** which shall be among you; or wo be unto it, because of the blood of them who have been slain; for they cry from the dust for vengeance upon it, and also upon those who built it up.
 >
 > 25 For it cometh to pass that whoso buildeth **it** up seeketh to overthrow the freedom of **all** lands, nations, and countries; and it bringeth to pass the destruction of **all** people, for it is built up by the devil, who is the father of all lies; even that same liar who beguiled our first parents, yea, even that same liar who hath caused man to commit murder from the beginning; who hath hardened the hearts of men that they have murdered the prophets, and stoned them, and cast them out from the beginning.
 
@@ -85,27 +85,22 @@ This is not the be-all, end-all - this is <i><b>*a piece*</b></i> of the puzzle 
 
 I took [Mormon's advice][20] and woke up nearly five years ago because some friends told me about the Federal Reserve and how it's a private entity. This led to a five-year long search and study of the world and what the driving forces are. What I found disturbed me and caused me to bear a burden for many years. So, if Trump's victory is hurting you, it should. You're experiencing the *opposing energies* that were already there, at play between two powerful forces. Now, it's finally all out in the open - thank Heaven. Trump supporters have been bearing this burden for years prior to the election. He simple harnessed the song of angry people into a political movement.
 
-Would you like to know more? ...
+### If you haven't taken the "red pill" and gone down the rabbit hole, the hour is growing late. Take the red pill, and shatter the illusion.
 
-[Federal Reserve][9]
+Would you like to know more? Here are some leads to follow...
 
-[Bilderberg Group][10]
+* [Secret Combination Movie / Mormon Prophetic Warnings][21]
+* [Federal Reserve][9]
+* [Bilderberg Group][10]
+* [9/11 BYU professor speaks out][11]
+* [9/11 Loose Change][12]
+* [Trilateral Commission][13]
+* [Birth Certificate - Does the world claim you?][14]
+* [The Story of Your Enslavement][15]
+* [Big Pharma, turning humans into slaves][16]
+* [Adam Freeland - WE WANT YOUR SOUL][17]
 
-[9/11 BYU professor speaks out][11]
-
-[9/11 Loose Change][12]
-
-[Trilateral Commission][13]
-
-[Birth Certificate - Does the world claim you?][14]
-
-[The Story of Your Enslavement][15]
-
-[Big Pharma, turning humans into slaves][16]
-
-[Adam Freeland - WE WANT YOUR SOUL][17]
-
-There's so much more. Don't buy into the notions:
+Don't buy into the notions..
 
 * "If it was bad for you, they wouldn't sell it!"
 * "If they knew more, they would tell us!"
@@ -139,3 +134,4 @@ Conspiracies exist, and we must wake up from the slumber with which mainstream m
 [18]: https://www.lds.org/scriptures/bofm/ether/8.19-25?lang=en#19
 [19]: https://www.lds.org/scriptures/bofm/2-ne/28.21?lang=eng#20
 [20]: https://www.lds.org/scriptures/bofm/ether/8.24?lang=eng#24
+[21]: https://www.youtube.com/watch?v=6IOrY4NFnFM
