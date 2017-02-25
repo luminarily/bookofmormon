@@ -12,8 +12,6 @@ comments: true
 
 #### The Book of Mormon teaches conspiracies are real, massive, deliberate, and dangerous.
 
-They push agendas which are anti-family - in subtle and often non-direct ways.
-
 Mormons are taught, by their own scripture, to **believe** in conspiracies - that they are real and that they are a legitimate threat to freedom. In fact, we are taught *by our own scripture* that there is a secret combination - a New World Order - (note the *singular* use of the word in the below verse) setup among the kingdoms of the gentiles that is powerful enough to enslave the planet.
 
 ##### "Secret combinations" is a term used in the Book of Mormon to describe organized, malicious conspiracy among individuals who seek harm others.
