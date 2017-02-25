@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Conspiracies - They are Real and Massive"
+title: "Real, Massive Conspiracies"
 date: 2017-02-21 16:11:43 +0700
 categories: 'Mormon-Red-Pill'
 tags: 'politics conspiracies'
 published: true
-description: 'Mormon Red Pill: Conspiracies within governments destroy nations.'
+description: 'The Book of Mormon teaches conspiracies are real, massive, deliberate, and dangerous.'
 post_author: chasmiclysm
 comments: true
 ---
 
-#### Conspiracies are real. They are sinister. They are *massive*. And they have been around a *long* time.
+#### The Book of Mormon teaches conspiracies are real, massive, deliberate, and dangerous.
 
 They push agendas which are anti-family - in subtle ways, non-direct ways. They always say "follow the money". In the case of social agendas and global conspiracies, follow the effect these trends have on the family and you will stumble upon something interesting and sobering.
 
