@@ -16,7 +16,7 @@ They push agendas which are anti-family - in subtle and often non-direct ways.
 
 Mormons are taught, by their own scripture, to **believe** in conspiracies - that they are real and that they are a legitimate threat to freedom. In fact, we are taught *by our own scripture* that there is a secret combination - a New World Order - (note the *singular* use of the word in the below verse) setup among the kingdoms of the gentiles that is powerful enough to enslave the planet.
 
-##### "Secret combinations" is a term used in the Book of Mormon to describe organized, malicious conspiracy among individuals who seek to exert control over others.
+##### "Secret combinations" is a term used in the Book of Mormon to describe organized, malicious conspiracy among individuals who seek harm others.
 
 > [Ether 8:23-25][18] Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown unto you, that thereby ye may repent of your sins, and **suffer not that these murderous combinations shall get above you**, which are built up to get power and gain—and the work, yea, even the work of destruction come upon you, yea, even the sword of the justice of the Eternal God shall fall upon you, to your overthrow and destruction if ye shall suffer these things to be.
 >
