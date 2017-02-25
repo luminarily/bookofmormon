@@ -187,3 +187,17 @@ a {
 		color: white;
 	}
 }
+
+.site-title, .site-slogan {
+	&:hover {
+		color: white;
+	}
+}
+
+.site-nav {
+	a {
+		&:hover {
+			color: crimson;
+		}
+	}
+}
