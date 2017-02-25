@@ -22,7 +22,7 @@ Mormons are taught, by their own scripture, to **believe** in conspiracies - tha
 >
 > 25 For it cometh to pass that whoso buildeth **it** up seeketh to overthrow the freedom of **all** lands, nations, and countries; and it bringeth to pass the destruction of **all** people, for it is built up by the devil, who is the father of all lies; even that same liar who beguiled our first parents, yea, even that same liar who hath caused man to commit murder from the beginning; who hath hardened the hearts of men that they have murdered the prophets, and stoned them, and cast them out from the beginning.
 > 
-> [Ether 8:23-25][18]
+> [Ether 8:23-25][18] (Book of Mormon)
 
 We are counseled to not allow secret combinations to get above us. Furthermore, we are informed that there is one Secret Combination in particular that has amassed enough power, through deception, subterfuge and force, to threaten the freedom of not only one country, but in fact that of the entire planet.
 
@@ -46,7 +46,7 @@ A related question illustrates the importance of recognizing the tell-tale signs
 > 
 > 21 **And they have caused the destruction of this people of whom I am now speaking, and also the destruction of the people of Nephi.**
 > 
-> [Ether 8:19-21][7]
+> [Ether 8:19-21][7] (Book of Mormon)
 
 These secret combinations were upheld through **specific** actions / oaths of mortal men and women. They didn't just coalesce out of the ether of Outer Darkness into a non-definable form. No, [secret combinations have specific forms][4] - albeit in secret and darkness.
 
@@ -71,7 +71,7 @@ I posit two main reasons, though I am sure there are many more:
 
 > 21 And others will he pacify, and lull them away into carnal security, that they will say: **All is well in Zion; yea, Zion prospereth, all is well**—*and thus the devil cheateth their souls, and leadeth them away carefully down to hell*.
 > 
-> [2nd Nephi 28:21][19]
+> [2nd Nephi 28:21][19] (Book of Mormon)
 
 I can see how some reading this may assume that Trump is now the conspiracy that we must fight and take down. However, this is mistake. Those of us who have been [quick to observe][2] have been keenly and painfully aware of conspiracies for the past decade and for others, much longer.
 
@@ -79,7 +79,7 @@ Unfortunately, if you wake up too late, because you've been oblivious to reality
 
 > 24 they also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
 > 
-> [Isaiah 29:24][5]
+> [Isaiah 29:24][5] (Bible)
 
 So, it's not our place to pass defining judgment, but we can and should judge light from dark; the Book of Mormon [tells us how][6].
 

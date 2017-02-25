@@ -18,4 +18,6 @@ As you read these posts, I think you're going to be floored at how accurately th
 
 I have created this website / blog to address these issues.
 
+\*Please note: Most, if not all, of the stylized text (italics, bold, etc...) in scriptures I share is my own - added for emphasis.
+
 **DISCLAIMER** - Obviously, these are MY views and do not necessarily reflect those of The Church of Jesus Christ of Latter-Day Saints. This website is in no way affiliated with the Church. I am an agent unto myself.
