@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conspiracies >>> Real, Massive."
+title: "Conspiracies: Real, Massive."
 date: 2017-02-21 16:11:43 +0700
 categories: 'Mormon-Red-Pill'
 tags: 'politics conspiracies'
@@ -16,11 +16,13 @@ Mormons are taught, by their own scripture, to **believe** in conspiracies - tha
 
 ##### "Secret combinations" is a term used in the Book of Mormon to describe organized, malicious conspiracy among individuals who seek harm others.
 
-> [Ether 8:23-25][18] Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown unto you, that thereby ye may repent of your sins, and **suffer not that these murderous combinations shall get above you**, which are built up to get power and gain—and the work, yea, even the work of destruction come upon you, yea, even the sword of the justice of the Eternal God shall fall upon you, to your overthrow and destruction if ye shall suffer these things to be.
+> 23 Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown unto you, that thereby ye may repent of your sins, and **suffer not that these murderous combinations shall get above you**, which are built up to get power and gain—and the work, yea, even the work of destruction come upon you, yea, even the sword of the justice of the Eternal God shall fall upon you, to your overthrow and destruction if ye shall suffer these things to be.
 >
 > 24 Wherefore, the Lord commandeth you, when ye shall see these things come among you that ye shall **awake to a sense of your awful situation**, because of **this secret combination** which shall be among you; or wo be unto it, because of the blood of them who have been slain; for they cry from the dust for vengeance upon it, and also upon those who built it up.
 >
 > 25 For it cometh to pass that whoso buildeth **it** up seeketh to overthrow the freedom of **all** lands, nations, and countries; and it bringeth to pass the destruction of **all** people, for it is built up by the devil, who is the father of all lies; even that same liar who beguiled our first parents, yea, even that same liar who hath caused man to commit murder from the beginning; who hath hardened the hearts of men that they have murdered the prophets, and stoned them, and cast them out from the beginning.
+> 
+> [Ether 8:23-25][18]
 
 We are counseled to not allow secret combinations to get above us. Furthermore, we are informed that there is one Secret Combination in particular that has amassed enough power, through deception, subterfuge and force, to threaten the freedom of not only one country, but in fact that of the entire planet.
 
@@ -38,11 +40,13 @@ A related question illustrates the importance of recognizing the tell-tale signs
 
 ## A: Secret Combinations (in particular, conspiracies at the head of government.)
 
-> [Ether 8:19-21][7] For the Lord worketh not in **secret combinations**, neither doth he will that man should shed blood, but in all things hath forbidden it, from the beginning of man.
+> 19 For the Lord worketh not in **secret combinations**, neither doth he will that man should shed blood, but in all things hath forbidden it, from the beginning of man.
 > 
 > 20 And now I, Moroni, do not write the manner of their oaths and combinations, for it hath been made known unto me that they are had among all people, and they are had among the Lamanites.
 > 
 > 21 **And they have caused the destruction of this people of whom I am now speaking, and also the destruction of the people of Nephi.**
+> 
+> [Ether 8:19-21][7]
 
 These secret combinations were upheld through **specific** actions / oaths of mortal men and women. They didn't just coalesce out of the ether of Outer Darkness into a non-definable form. No, [secret combinations have specific forms][4] - albeit in secret and darkness.
 
@@ -65,13 +69,17 @@ I posit two main reasons, though I am sure there are many more:
 
 2. Prior to the election of Donald Trump, many were of the feeling that all was well in Zion and that more of the same was better than what Trump had to offer. Because of their feeling that was well, now that Trump is president, it's a natural consequence to feel that everything has fallen apart.
 
-> [2nd Nephi 28:21][19] And others will he pacify, and lull them away into carnal security, that they will say: All is well in Zion; yea, Zion prospereth, all is well—and thus the devil cheateth their souls, and leadeth them away carefully down to hell.
+> 21 And others will he pacify, and lull them away into carnal security, that they will say: All is well in Zion; yea, Zion prospereth, all is well—and thus the devil cheateth their souls, and leadeth them away carefully down to hell.
+> 
+> [2nd Nephi 28:21][19]
 
 I can see how some reading this may assume that Trump is now the conspiracy that we must fight and take down. However, this is mistake. Those of us who have been [quick to observe][2] have been keenly and painfully aware of conspiracies for the past decade and for others, much longer.
 
 Unfortunately, if you wake up too late, because you've been oblivious to reality in your slumber, you run the risk of waking up "on the wrong side of the bed", being confused as to what is good and what is evil. Satan is a master of deception. Consider - the country is at more than just a political divide. Truly, we are at an ideological divide. But, we cannot pass judgment on whether people are "worthy Christians" because the deception runs very deep and we are taught that 
 
-> [Isaiah 29:24][5] they also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
+> 24 they also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
+> 
+> [Isaiah 29:24][5]
 
 So, it's not our place to pass defining judgment, but we can and should judge light from dark; the Book of Mormon [tells us how][6].
 
