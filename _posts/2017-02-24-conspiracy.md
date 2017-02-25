@@ -10,11 +10,13 @@ post_author: chasmiclysm
 comments: true
 ---
 
-Conspiracies are real. They are sinister. And they are *massive*.
+#### Conspiracies are real. They are sinister. They are *massive*. And they have been around a *long* time.
 
 They push agendas which are anti-family - in subtle ways, non-direct ways. They always say "follow the money". In the case of social agendas and global conspiracies, follow the effect these trends have on the family and you will stumble upon something interesting and sobering.
 
 Mormons are taught, by their own scripture, to **believe** in conspiracies - that they are real and that they are a legitimate threat to freedom. In fact, we are taught *by our own scripture* that there is a secret combination - a New World Order - (note the *singular* use of the word in the below verse) setup among the kingdoms of the gentiles that is powerful enough to enslave the planet.
+
+##### "Secret combinations" is a term used in the Book of Mormon to describe organized, malicious conspiracy among individuals who seek to exert control over others.
 
 > [Ether 8:23-25][18] Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown unto you, that thereby ye may repent of your sins, and **suffer not that these murderous combinations shall get above you**, which are built up to get power and gain—and the work, yea, even the work of destruction come upon you, yea, even the sword of the justice of the Eternal God shall fall upon you, to your overthrow and destruction if ye shall suffer these things to be.
 >
@@ -81,7 +83,7 @@ Would you like to know more? ...
 
 [Federal Reserve][9]
 
-[Builderberg Group][10]
+[Bilderberg Group][10]
 
 [9/11 BYU professor speaks out][11]
 
@@ -97,18 +99,18 @@ Would you like to know more? ...
 
 [Adam Freeland - WE WANT YOUR SOUL][17]
 
-There's so much more. Don't buy into the notions...
+There's so much more. Don't buy into the notions:
 
-"If it was bad for you, they wouldn't sell it!" <br>
-"If they knew more, they would tell us!" <br>
-"The government wouldn't lie to us." <br>
-"The media wouldn't lie!" <br>
-"I don't trust anything but reputable, mainstream news outlets!" <br>
-"There no PROOF!!" - Ahh, but the question you should be asking yourself is why there hasn't been an investigation despite the evidences in question? "There is NO evidence!" - Saying there is no evidence does not mean there is no evidence. Claims *must* be addressed.
+* "If it was bad for you, they wouldn't sell it!"
+* "If they knew more, they would tell us!"
+* "The government wouldn't lie to us."
+* "The media wouldn't lie!"
+* "I don't trust anything but reputable, mainstream news outlets!"
+* "There no PROOF!!" - Ahh, but the question you should be asking yourself is why there hasn't been an investigation despite the evidences in question? "There is NO evidence!" - Saying there is no evidence does not mean there is no evidence. Claims *must* be addressed.
 
 Don't be naive. Corruption seeks: MONEY. POWER. EVASION OF LAW. At *any* cost.
 
-Conspiracies exist, and we must wake up from the slumber with which mainstream media entrances us grasp the context of reality - if we are to recognize the truth.
+Conspiracies exist, and we must wake up from the slumber with which mainstream media entrances us and grasp the *context of reality* if we are to see things as they are.
 
 
 [1]: https://www.lds.org/manual/preparing-for-exaltation-teachers-manual/lesson-23-obedience-the-first-law-of-heaven?lang=eng
