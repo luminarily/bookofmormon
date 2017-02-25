@@ -30,7 +30,7 @@ Ponder that for a time.
 
 I've observed a tendency among my fellow Mormons to dismiss conspiracy through attributing it all to Satan (**thus minimizing earthly organization and form, absolving mortal institutions and technologies of any guilt**). While Satan is the head of his church, many don't realize that Satan has setup earthly bureaucracies and armies interwoven among the nations of the world.
 
-#### YOU are a part of these SYSTEMS (in the world) whether you know it or not - and until you see them for what they are, you risk being proponents of those systems (of the world) - upholding them, however unknowingly.
+#### YOU are a part of these SYSTEMS ("in the world") whether you know it or not - and until you see them for what they are, you risk being proponents of those systems ("of the world") - upholding them, however unknowingly.
 
 ---
 

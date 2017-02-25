@@ -133,8 +133,9 @@ h4 {
 }
 
 h5 {
-	background-color: $gray;
+	background-color: $dark-gray;
 	box-shadow: 0 15px 2px -10px $dark-gray;
+	color: white;
 	h3 {
 		color: $dark-red;
 	}
