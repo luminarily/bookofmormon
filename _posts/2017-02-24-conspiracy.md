@@ -36,9 +36,15 @@ I've observed a tendency among my fellow Mormons to dismiss conspiracy through a
 
 A related question illustrates the importance of recognizing the tell-tale signs of conspiracies and secret combinations.
 
-# What eventually lead to the entire destruction of the people of Nephi in the Book of Mormon?
+# Q: What eventually lead to the entire destruction of the people of Nephi in the Book of Mormon?
 
-> [Ether 8:21][7] And they (the secret combinations) have caused the destruction of this people of whom I am now speaking, and also the destruction of the people of Nephi.
+## A: Secret Combinations (in particular, conspiracies at the head of government.)
+
+> [Ether 8:19-21][7] For the Lord worketh not in **secret combinations**, neither doth he will that man should shed blood, but in all things hath forbidden it, from the beginning of man.
+> 
+> 20 And now I, Moroni, do not write the manner of their oaths and combinations, for it hath been made known unto me that they are had among all people, and they are had among the Lamanites.
+> 
+> 21 **And they have caused the destruction of this people of whom I am now speaking, and also the destruction of the people of Nephi.**
 
 These secret combinations were upheld through **specific** actions / oaths of mortal men and women. They didn't just coalesce out of the ether of Outer Darkness into a non-definable form. No, [secret combinations have specific forms][4] - albeit in secret and darkness.
 
@@ -119,7 +125,7 @@ Conspiracies exist, and we must wake up from the slumber with which mainstream m
 [4]: https://www.lds.org/scriptures/bofm/ether/8.20?lang=eng#20
 [5]: https://www.lds.org/scriptures/ot/isa/29.24?lang=eng#23
 [6]: https://www.lds.org/scriptures/bofm/moro/7.14-19?lang=eng#16
-[7]: https://www.lds.org/scriptures/bofm/ether/8.21?lang=eng#20
+[7]: https://www.lds.org/scriptures/bofm/ether/8.19-21?lang=eng#19
 [8]: https://www.lds.org/scriptures/search?lang=eng&type=verse&query=combination
 [9]: https://www.youtube.com/watch?v=5IJeemTQ7Vk
 [10]: https://www.youtube.com/watch?v=KYWx_cFzqro
