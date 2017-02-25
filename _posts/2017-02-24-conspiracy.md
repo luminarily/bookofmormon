@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Real, Massive Conspiracies"
+title: "Conspiracies >>> Real, Massive."
 date: 2017-02-21 16:11:43 +0700
 categories: 'Mormon-Red-Pill'
 tags: 'politics conspiracies'
@@ -12,7 +12,7 @@ comments: true
 
 #### The Book of Mormon teaches conspiracies are real, massive, deliberate, and dangerous.
 
-They push agendas which are anti-family - in subtle ways, non-direct ways. They always say "follow the money". In the case of social agendas and global conspiracies, follow the effect these trends have on the family and you will stumble upon something interesting and sobering.
+They push agendas which are anti-family - in subtle and often non-direct ways.
 
 Mormons are taught, by their own scripture, to **believe** in conspiracies - that they are real and that they are a legitimate threat to freedom. In fact, we are taught *by our own scripture* that there is a secret combination - a New World Order - (note the *singular* use of the word in the below verse) setup among the kingdoms of the gentiles that is powerful enough to enslave the planet.
 
