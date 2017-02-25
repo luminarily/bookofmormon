@@ -14,7 +14,7 @@
           <img class="low-res-image" src="/{{post.hero_low | prepend: site.baseurl}}" alt="{{post.hero_alt}}">
         </div>
       {% endif %}
-      {{ post.excerpt }}
+      {{ post.excerpt | truncatewords:200 }}
     </div>
 
     <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
