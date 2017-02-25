@@ -5,12 +5,12 @@ date: 2017-02-21 16:11:43 +0700
 categories: 'Mormon-Red-Pill'
 tags: 'politics conspiracies'
 published: true
-description: 'The Book of Mormon teaches conspiracies are real, massive, deliberate, and dangerous.'
+description: 'Book of Mormon: conspiracies are real, massive, deliberate, and dangerous.'
 post_author: chasmiclysm
 comments: true
 ---
 
-#### The Book of Mormon teaches conspiracies are real, massive, deliberate, and dangerous.
+#### Book of Mormon: conspiracies are real, massive, deliberate, and dangerous.
 
 Mormons are taught, by their own scripture, to **believe** in conspiracies - that they are real and that they are a legitimate threat to freedom. In fact, we are taught *by our own scripture* that there is a secret combination - a New World Order - (note the *singular* use of the word in the below verse) setup among the kingdoms of the gentiles that is powerful enough to enslave the planet.
 
