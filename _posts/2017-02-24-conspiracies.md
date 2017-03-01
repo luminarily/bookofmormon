@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conspiracies: Real, Massive."
+title: "Conspiracies"
 date: 2017-02-21 16:11:43 +0700
 categories: 'Mormon-Red-Pill'
 tags: 'politics conspiracies'
@@ -10,11 +10,11 @@ post_author: chasmiclysm
 comments: true
 ---
 
-#### The Book of Mormon teaches that conspiracies are real, massive, deliberate, and dangerous.
+##### The Book of Mormon teaches that conspiracies are real, massive, deliberate, and dangerous.
 
 Mormons are taught, by their own scripture, to **believe** in conspiracies - that they are real and that they are a legitimate threat to freedom. In fact, we are taught *by our own scripture* that there is a secret combination - a New World Order - (note the *singular* use of the word in the below verse) setup among the kingdoms of the gentiles that is powerful enough to enslave the planet.
 
-##### "Secret combinations" is a term used in the Book of Mormon to describe organized, malicious conspiracy among individuals who seek harm others.
+###### "Secret combinations" is a term used in the Book of Mormon to describe organized, malicious conspiracies among individuals who seek goals which harm others.
 
 > 23 Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown unto you, that thereby ye may repent of your sins, and **suffer not that these murderous combinations shall get above you**, which are built up to get power and gain—and the work, yea, even the work of destruction come upon you, yea, even the sword of the justice of the Eternal God shall fall upon you, to your overthrow and destruction if ye shall suffer these things to be.
 >
@@ -30,7 +30,7 @@ Ponder that for a time.
 
 I've observed a tendency among my fellow Mormons to dismiss conspiracy through attributing it all to Satan (**thus minimizing earthly organization and form, absolving mortal institutions and technologies of any guilt**). While Satan is the head of his church, many don't realize that Satan has setup earthly bureaucracies and armies interwoven among the nations of the world.
 
-#### YOU are a part of these SYSTEMS ("in the world") whether you know it or not - and until you see them for what they are, you risk being proponents of those systems ("of the world") - upholding them, however unknowingly.
+##### YOU are a part of these SYSTEMS (you are "in the world") whether you know it or not - and until you see them for what they are, you risk being proponents of those systems (or being "of the world") - upholding them, however unknowingly.
 
 ---
 
@@ -54,11 +54,16 @@ These secret combinations were upheld through **specific** actions / oaths of mo
 
 This is EXACTLY what the Gentiles were doing when they voted Trump on election day.
 
-Wow.. I can't believe I wrote that, but it's true!
 
-### We voted against the "false song of globalism". We voted against the New World Order. We voted against the Secret Combination that seeks the overthrow of all world democracies.
+#### We voted against the "false song of globalism". We voted against the New World Order. We voted against the Secret Combination that seeks the overthrow of all world democracies.
 
-Yet, it as been common for Mormons to dismiss any claim of conspiracy as simply a theory without merit. A gentle note: Don't think you're open to the reality of conspiracies now that Trump has been elected. You can't say you suddenly have the vision to see conspiracies when for the past five or ten years you've denied their existence or simply ignored the possibility.
+Can you imagine posting this on your social media account? I think it's very telling how there's a palpable hostility against those who voted Trump.
+
+It continues to be common for Mormons to dismiss any claim of conspiracy as simply a theory without merit.
+
+Don't think you're open to the reality of conspiracies now that Trump has been elected. You can't say you suddenly have the vision to see conspiracies when for the past five or ten years you've denied their existence or simply ignored the possibility. You may think you're justified because of what the media has told you.
+
+### By ignoring *how bad things were* you risk being deceived and misunderstanding why America chose how it did November 8th, 2016.
 
 How can Mormons dismiss conspiracies when their own Book of Mormon explicitely teaches them to accept their reality AND even to take action against them?
 
@@ -91,7 +96,7 @@ This is not the be-all, end-all - this is <i><b>*a piece*</b></i> of the puzzle 
 
 I took [Mormon's advice][20] and woke up nearly five years ago because some friends told me about the Federal Reserve and how it's a private entity. This led to a five-year long search and study of the world and what the driving forces are. What I found disturbed me and caused me to bear a burden for many years. So, if Trump's victory is hurting you, it should. You're experiencing the *opposing energies* that were already there, at play between two powerful forces. Now, it's finally all out in the open - thank Heaven. Trump supporters have been bearing this burden for years prior to the election. He simple harnessed the song of angry people into a political movement.
 
-### If you haven't taken the "red pill" and gone down the rabbit hole, the hour is growing late. Take the red pill, and shatter the illusion.
+##### If you haven't taken the "red pill" and gone down the rabbit hole, the hour is growing late. Take the red pill, and shatter the illusion.
 
 Would you like to know more? Here are some leads to follow...
 

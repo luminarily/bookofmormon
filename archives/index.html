@@ -22,8 +22,8 @@ icon: icon-cabinet
     {% assign post_month = post.date | date: '%B' %}
     {% assign post_day = post.date | date: '%d' %}
     <div class="archives-info">
-      <h4 class="archives-month">{{post_month}} {{post_day}} - </h4>
-      <a class="archives-post-title" href="{{ post.url }}">{{ post.title }}</a>
+      <h6 class="archives-month">{{post_month}} {{post_day}} - <a class="archives-post-title" href="{{ post.url }}">{{ post.title }}</a></h6>
+      
     </div>
 
   {% endfor %}
