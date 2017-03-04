@@ -1,0 +1,20 @@
+<div class="post">
+
+    <div class="post-icon-image {{ post.icon }}"></div>
+
+    <a href="{{ post.url | prepend: site.baseurl }}" class="post-title-link">
+      <h1 data-sr="enter left, hustle 20px" class="titanic">{{post.title}}</h2>
+    </a>
+
+    <div class="post-date">{{ post.date | date: "%d / %m / %Y" }}</div>
+    
+    <div class="post-body">
+      {% if post.hero_low %}
+        <div class="hero-image">
+          <img class="low-res-image" src="/{{post.hero_low | prepend: site.baseurl}}" alt="{{post.hero_alt}}">
+        </div>
+      {% endif %}
+      {{ post.excerpt | truncatewords:10 }}
+    </div>
+
+</div>
