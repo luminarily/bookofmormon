@@ -45,18 +45,26 @@ blockquote {
 	font-style: normal;
 	box-shadow: 0px 0px 5px 1px black;
 	max-width: 900px;
+	border-radius: 15px 50px;
+	background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+	background-blend-mode: multiply;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
 h1, h2, h3, h4, h5, h6 {
+	margin: 0px auto;
 	background-color: $light-gray;
 	padding: $baseline/4 $baseline*1.5;
 	margin-bottom: $baseline;
+	margin-top: $baseline;
 	position: relative;
 	overflow: hidden;
 	font-size: 24px;
 	font-weight: normal;
 	border-radius: 20px;
 	text-align: center !important;
+	width: 95%;
 
 	.line1,
 	.line2 {
@@ -93,7 +101,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1	{
 	background-color: $light-blue;
-	box-shadow: 0 15px 2px -10px $blue;
+	box-shadow: 0 0px 2px 1px $light-blue;
+	border: 1px solid darken($light-blue, 10%);
 	h3 {
 		color: $dark-blue;
 	}
@@ -107,7 +116,8 @@ h1	{
 
 h2	{
 	background-color: $light-green;
-	box-shadow: 0 15px 2px -10px $green;
+	box-shadow: 0 0px 2px 1px $light-green;
+	border: 1px solid darken($light-green, 10%);
 	h3 {
 		color: $dark-green;
 	}
@@ -121,7 +131,8 @@ h2	{
 
 h3 {
 	background-color: $yellow;
-	box-shadow: 0 15px 2px -10px $dark-yellow;
+	box-shadow: 0 0px 2px 1px $yellow;
+	border: 1px solid darken($yellow, 10%);
 	color: black;
 	h3 {
 		color: $dark-red;
@@ -136,7 +147,8 @@ h3 {
 
 h4	{
 	background-color: $light-orange;
-	box-shadow: 0 15px 2px -10px $orange;
+	box-shadow: 0 0px 2px 1px $orange;
+	border: 1px solid darken($orange, 10%);
 	h3 {
 		color: $dark-orange;
 	}
@@ -150,7 +162,8 @@ h4	{
 
 h5 {
 	background-color: $light-red;
-	box-shadow: 0 15px 2px -10px $red;
+	box-shadow: 0 0px 2px 1px $light-red;
+	border: 1px solid darken($light-red, 10%);
 	h3 {
 		color: $dark-red;
 	}
@@ -164,7 +177,8 @@ h5 {
 
 h6 {
 	background-color: $dark-gray;
-	box-shadow: 0 15px 2px -10px $dark-gray;
+	box-shadow: 0 0px 1px 1px $dark-gray;
+	border: 1px solid darken($dark-gray, 10%);
 	color: white;
 	h3 {
 		color: $dark-red;
@@ -238,8 +252,15 @@ a {
 
 .archives {
 
+	.archives-year {
+		margin: 0px auto !important;
+		width: 50%;
+		margin-top: 30px !important;
+		margin-bottom: 30px !important;
+	}
 	.archives-info {
 		margin-left: .5em;
+		width: 50%;
 		@include breakpoint(medium) {
 			margin-left: 1em;
 		}
@@ -248,6 +269,7 @@ a {
 		}
 	}
 	.archives-month {
+		text-align: left !important;
 		display: inline-block;
 		margin-top: 5px;
 		margin-bottom: 5px;
@@ -263,4 +285,8 @@ a {
 		}
 	}
 
+}
+
+.block-module-header>h6 {
+	width: 50% !important;
 }
