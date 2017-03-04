@@ -213,10 +213,8 @@ a {
 	color: black;
 	font-size: 2em;
 	&:hover {
-		background-color: black;
 		border: solid black 3px;
-		box-shadow: 0 15px 2px -10px white;
-		color: white;
+		color: $link-hover;
 	}
 }
 
