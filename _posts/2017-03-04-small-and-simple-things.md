@@ -12,11 +12,11 @@ comments: true
 
 ## Small & simple things bring great things and confound high ones.
 
-"Is Donald Trump a simpleton?" - vis-a-vis [AARP Online Community][2]
-"Trump is a complete simpleton." - [libertybill on Tumblr][3]
-"Donald Trump is just a simpleton." - [/u/AgeOfHorus on Reddit][4]
-"Donald Trump Talks Like a Third-Grader ... If you were to market Donald Trump’s vocabulary as a toy, it would resemble a small box of Lincoln Logs." - [Jack Shafer - Politico][5]
-"Donald Trump's use of grammar 'typical of children aged 11 and under'" - [Serina Sandhu - INDEPENDENT.co.uk][6]
+* "Is Donald Trump a simpleton?" - vis-a-vis [AARP Online Community][2]
+* "Trump is a complete simpleton." - [libertybill on Tumblr][3]
+* "Donald Trump is just a simpleton." - [/u/AgeOfHorus on Reddit][4]
+* "Donald Trump Talks Like a Third-Grader ... If you were to market Donald Trump’s vocabulary as a toy, it would resemble a small box of Lincoln Logs." - [Jack Shafer - Politico][5]
+* "Donald Trump's use of grammar 'typical of children aged 11 and under'" - [Serina Sandhu - INDEPENDENT.co.uk][6]
 
 ### So what if Donald Trump speaks like a simpleton? The scriptures make no case against such; in fact they praise simplicity and plainness.
 
@@ -30,10 +30,10 @@ Fan or not, you gotta admit Trump pulled off one of the most jaw-dropping feats 
 
 Trump had almost the entire establishment against him:
 
-* Fortune 500 companies? >>> Against Trump.
-* Mainstream Media? >>> Against Trump.
-* U.S. government? >>> Against Trump.
-* Hollywood? >>> Against Trump.
+* Fortune 500 companies? >> Against Trump.
+* Mainstream Media? >> Against Trump.
+* U.S. government? >> Against Trump.
+* Hollywood? >> Against Trump.
 
 # How is it possible that a man overcame earth-crushing opposition and ascended to become the most powerful man in the world?
 
@@ -43,15 +43,11 @@ Trump had almost the entire establishment against him:
 > 
 > [Alma 37:6-7][1] (Book of Mormon)
 
-The Establishment - with UNLIMITED funds, power, resources, and corrupt dealings were ultimately **confounded** by Trump, the simpleton, and overcome by the will of the people.
+#### The Establishment - with UNLIMITED funds, power, resources, and corrupt dealings - were ultimately **confounded** by Trump, the simpleton.<br><br>They couldn't, not even with all their complex machinations, systems of control and thought-curation through media propaganda could not stop ONE MAN from toppling their entire reality.
 
-They couldn't, not even with all their complex machinations, and systems of control and thought-curation could not stop ONE MAN from toppling their entire reality.
+Who would have thought Trump's tactic of going directly to the people and telling them to put their country first would be so effective? He would use widely-comprehensible phrases such as "we don't *win* anymore."
 
-Who would have thought Trump's tactic of going directly to the people and telling them to put their country first would be so effective? He would often say "we don't win anymore."
-
-Though true, ff he said "there's a conspiracy that is trying to turn America into a communist state," he would have lost.
-
-Trump truly adapted his words so all could understand:
+If instead he said "there's a conspiracy that is trying to turn America into a communist state," he would have lost! It was genius on Trump's part to boil hard-to-swallow realities down to simple forms the majority could understand.
 
 > the things which were written were **plain and pure**, and most precious and **easy to the understanding of *all* men.**
 > 
