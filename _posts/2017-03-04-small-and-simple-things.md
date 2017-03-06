@@ -19,6 +19,20 @@ image: /images/posts/what_happened_happened_trump.png
 * "Donald Trump Talks Like a Third-Grader ... If you were to market Donald Trump’s vocabulary as a toy, it would resemble a small box of Lincoln Logs." - [Jack Shafer - Politico][5]
 * "Donald Trump's use of grammar 'typical of children aged 11 and under'" - [Serina Sandhu - INDEPENDENT.co.uk][6]
 
+<img style="margin: auto; display: block;" src="/images/posts/what_happened_happened_trump2.png" />
+
+**Do you ever find yourself in surreal awe that Donald Trump is the President?** Considering the forces that were working against him, I often find myself thinking that if Trump had changed anything about his character or technique or delivery, he would not have been able to win.
+
+## There was an extremely narrow 'job' opening for a "people's president", the requirements of which Trump fit immaculately.
+
+Trump's simple, sensationalist nature was contagious and spread like wildfire. His *quirks, misspellings, and yes, even his mistakes, filled the news cycles*. Even his vast monetary resources allowed him to remain unfazed by bribes and threats (which surely came, either direct or implied).
+
+His brash, sincere and yet strong, courageous approach allowed him to weather the onslaught of "slings and arrows" the establishment hurled at him day after day, word after word, and minute after minute.
+
+People criticize his approach, but honestly, who are we to critique a man who pulled off the *impossible*? **Is there anyone else in America that could have and *would have* done what Trump did?** I don't think it's likely there is anyone.
+
+Therefore...
+
 ### So what if Donald Trump speaks like a simpleton? The scriptures make no case against such; in fact they praise simplicity and plainness.
 
 > 23 And now, he imparteth his word by angels unto men, yea, not only men but women also. Now this is not all; **little children do have words given unto them many times, which confound the wise and the learned.**
