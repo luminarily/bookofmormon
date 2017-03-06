@@ -8,7 +8,7 @@ published: true
 description: 'Small & simple things bring great things and confound high ones.'
 post_author: chasmiclysm
 comments: true
-image: images/posts/what_happened_happened_trump.png
+image: /images/posts/what_happened_happened_trump.png
 ---
 
 ## Small & simple things bring great things and confound high ones.
