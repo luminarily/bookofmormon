@@ -67,9 +67,11 @@ Despite the light of Christ and contrary to their own conscience, they allowed t
 
 Fortunately, the prayers of the righteous are answered, and the judgement of God does come down on the followers of Mahan from time to time.
 
-> The price of liberty is eternal vigilance.
+> 40 And there had been murders, and contentions, and dissensions, and all manner of iniquity among the people of Nephi; nevertheless for the righteous’ sake, yea, because of the prayers of the righteous, they were spared.
+> 
+> [Alma 62:40][9] (Book of Mormon)
 
-Vigilance against what? **Mahan** and those who follow such dark plans.
+The price of liberty is eternal vigilance. Vigilance against what? **Mahan** and those who follow such dark plans.
 
 Hundreds of years later, the plans of Gadianton resurfaced and this time it lead to the entire destruction of the Nephites, save it were a few who were mingled with the Lamanites:
 
@@ -104,3 +106,4 @@ This is what will be happening over the next few months. Pay attention to the ne
 [6]: https://www.lds.org/scriptures/bofm/4-ne/1.42-46?lang=eng#41
 [7]: /mormon-red-pill/2017/02/21/conspiracies.html
 [8]: https://www.reddit.com/r/conspiracy/comments/4mes7q/here_is_a_list_of_all_the_clinton_associates_that/
+[9]: https://www.lds.org/scriptures/bofm/alma/62.40?lang=eng#39
