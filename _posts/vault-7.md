@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Vault 7"
-date: 2017-02-28 00:00:01 +0700
-categories: ''
+date: 2017-02-28 00:00:01 -0700
 tags: 'politics hypotheses'
 published: false
 description: 'Vault 7: Ground Zero for Globalists.'

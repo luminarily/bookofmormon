@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Small & Simple Things"
-date: 2017-02-28 00:00:01 +0700
-categories: 'Mormon-Red-Pill'
+date: 2017-02-28 00:00:01 -0700
 tags: 'politics'
 published: true
 description: 'Small & simple things bring great things and confound high ones.'

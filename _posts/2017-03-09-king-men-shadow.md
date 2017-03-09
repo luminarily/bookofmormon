@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Rebellion of the King-Men"
-date: 2017-03-09 00:00:01 +0700
-categories: 'Mormon-Red-Pill'
+title: "Insurrection of the King-Men"
+date: 2017-03-09 04:50:00 -0700
 tags: 'politics conspiracies'
 published: true
 description: 'King-men from the Book of Mormon did not accept the results of their election.'
@@ -13,7 +12,7 @@ image: /images/posts/2017/antifa.jpg
 
 #### King-Men from the Book of Mormon did not accept election results.
 
-Antifa and the shadow government find a comparison in this.
+Antifa and the shadow government find a comparison in this by staging their insurrection against the elected government.
 
 <figure>
   <img style="margin: auto; display: block;" src="/images/posts/2017/antifa.jpg" alt="antifa">
@@ -44,7 +43,7 @@ Keep reading...
 
 ## The *freemen* won the dispute by the democratic vote of the people.
 
-So, the king-men were "obliged" to remain comply with the interests of the country; however, we will see that they did not accept the results of this election, thus becoming a danger to the country.
+So, the king-men were had to comply with the interests of the country; however, we will see that this did not last and they became a danger to the country.
 
 > 8 Now those who were in favor of kings were **those of high birth**, and they sought to be kings; and they were **supported by those who sought power and authority over the people.**
 > 
@@ -137,6 +136,6 @@ Due to the king-men, the Lamanite army was [able to take many Nephite cities][15
 [13]: https://www.lds.org/scriptures/bofm/alma/60.16?lang=eng#15
 [14]: https://www.lds.org/scriptures/dc-testament/dc/101.7?lang=eng#6
 [15]: https://www.lds.org/scriptures/bofm/alma/51.26-27?lang=eng#25
-[16]: /posts/2017-03-06-modern-gadianton-robbers.html
+[16]: /2017/03/06/modern-gadianton-robbers.html
 [17]: http://insider.foxnews.com/2017/02/16/trump-low-life-leakers-will-be-caught-judge-nap-reacts
 [18]: http://www.attacksontrumpsupporters.com/
