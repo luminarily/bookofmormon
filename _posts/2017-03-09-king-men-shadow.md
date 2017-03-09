@@ -7,7 +7,7 @@ published: true
 description: 'King-men from the Book of Mormon did not accept the results of their election.'
 post_author: chasmiclysm
 comments: true
-image: /images/posts/2017/antifa.jpg
+image: /images/posts/2017/antifa_large.jpg
 ---
 
 #### King-Men from the Book of Mormon did not accept election results.
