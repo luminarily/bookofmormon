@@ -11,6 +11,8 @@ comments: true
 
 # QAnon Alexandra
 
+
+
 https://avoidthemark.com/2020/03/21/who-am-i-and-is-it-important/
 https://avoidthemark.com/2020/03/23/understanding-two-witnesses-revelation-11-cabal-lgbtq-agenda-part-2/
 "All religions are strategically put into place for behavior modification and confusion ... Most young people don’t know the difference between Catholicism, Judaism, Muslimism, Christianity, Mormonism, Scientism and so forth."
