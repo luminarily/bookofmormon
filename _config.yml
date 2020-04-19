@@ -3,8 +3,8 @@ title: Adam-ondi-Ahman.glass
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   The Red Pill: Formulated Specially For Mormons
-baseurl: "/bookofmormon/" # the subpath of your site, e.g. /blog/
 url: "http://www.bookofmormonprophecy.info" # the base hostname & protocol for your site
+baseurl: "/bookofmormon" # the subpath of your site, e.g. /blog/
 twitter_username: chasmiclysm
 github_username: 
 
