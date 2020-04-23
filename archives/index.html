@@ -19,10 +19,11 @@ icon: icon-cabinet
       {% endif %}
     {% endunless %}
     
-    {% assign post_month = post.date | date: '%B' %}
+    {% assign post_year = post.date | date: '%Y' %}
+    {% assign post_month = post.date | date: '%m' %}
     {% assign post_day = post.date | date: '%d' %}
-    <div class="archives-info">
-      <h6 class="archives-month">{{post_month}} {{post_day}} - <a class="archives-post-title" href="{{ post.url }}">{{ post.title }}</a></h6>
+    <div class="archives-info" style="padding: 0px;">
+      <h6 class="archives-month">{{post_year}}-{{post_month}}-{{post_day}} :: <a class="archives-post-title" href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a></h6>
       
     </div>
 

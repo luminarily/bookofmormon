@@ -1,0 +1,9 @@
+links:
+- title: Home
+  url: /bookofmormon/
+- title: About
+  url: /bookofmormon/about/
+- title: Tags
+  url: /tags/
+- title: Rss
+  url: /atom.xml
