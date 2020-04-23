@@ -16,7 +16,7 @@ image: /images/posts/The_Fumigator_Awakens.png
 
 Workers and robbers cannot coexist. We must "fumigate" the swamp and cause the swamp creatures to reveal themselves. Then, we must go after them with the full force of the law. This is the only way for America to retore herself to the Republic.
 
-<img style="margin: auto; display: block;" src="/images/posts/The_Fumigator_Awakens.png" />
+<img style="margin: auto; display: block;" src="{{site.baseurl}}images/posts/The_Fumigator_Awakens.png" />
 
 # Can't we just go as we're going, treading lightly against the wicked ones in high places? No, not unless we want to fail.
 
@@ -103,6 +103,6 @@ This is what will be happening over the next few months. Pay attention to the ne
 [4]: https://www.lds.org/scriptures/nt/mark/8.36?lang=eng#35
 [5]: https://www.lds.org/scriptures/bofm/hel/6.26-27?lang=eng#25
 [6]: https://www.lds.org/scriptures/bofm/4-ne/1.42-46?lang=eng#41
-[7]: /2017/02/21/conspiracies.html
+[7]: "{{site.baseurl}}2017/02/21/conspiracies.html"
 [8]: https://www.reddit.com/r/conspiracy/comments/4mes7q/here_is_a_list_of_all_the_clinton_associates_that/
 [9]: https://www.lds.org/scriptures/bofm/alma/62.40?lang=eng#39

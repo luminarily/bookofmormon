@@ -1,6 +1,6 @@
 <aside class="site-sidebar">
 	<a class="site-title-link" href="/">
-		<!-- <img src="/images/general/adam-ondi-ahman-logo2.png" width="100%" style="max-width: 628px;"> -->
+		<!-- <img src="{{site.baseurl}}images/general/adam-ondi-ahman-logo2.png" width="100%" style="max-width: 628px;"> -->
 	</a>
 	<!-- <div class="module">
 		<header class="block-module-header">
@@ -46,12 +46,39 @@
 					{% assign tag_name = tag | first %}
 					{% assign tag_size = tag | last | size %}
 					{% assign tag_slug = tag_name | slugify  %}
-					<a class="tag-label bold" href="/tag/{{tag_slug | prepend: site.baseurl}}">
+					<a class="tag-label bold" href="{{site.baseurl}}tag/{{tag_slug}}">
 						{{tag_name}} ({{tag_size}})
 					</a>
 				{% endfor %}
 			</p>
 		</div>
+	</div>
+
+	<div class="archives">
+
+	  {% for post in site.posts %}
+
+	    {% unless post.next %}
+	      <h2 data-sr="enter left" class="archives-year">{{ post.date | date: '%Y' }}</h2>
+	    {% else %}
+	      {% assign post_year = post.date | date: '%Y' %}
+	      {% assign next_post_year = post.next.date | date: '%Y' %}
+	      {% if post_year != next_post_year %}
+	        <hr>
+	        <h2 data-sr="enter left" class="archives-year">{{ post.date | date: '%Y' }}</h2>
+	      {% endif %}
+	    {% endunless %}
+	    
+	    {% assign post_year = post.date | date: '%Y' %}
+	    {% assign post_month = post.date | date: '%m' %}
+	    {% assign post_day = post.date | date: '%d' %}
+	    <div class="archives-info" style="padding: 0px;">
+	      <h6 class="archives-month">{{post_year}}-{{post_month}}-{{post_day}} :: <a class="archives-post-title" href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a></h6>
+	      
+	    </div>
+
+	  {% endfor %}
+
 	</div>
 
 </aside>
