@@ -104,6 +104,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 h1	{
+
 	background-color: $light-blue;
 	box-shadow: 0 0px 2px 1px $light-blue;
 	border: 1px solid darken($light-blue, 10%);
@@ -208,16 +209,16 @@ a {
 	border: solid black 3px;
 	box-shadow: 0 15px 2px -10px black;
 	color: black;
-	font-size: 3em;
-	font-size: 2vw;
+	font-size: 1.5em;
+	// font-size: 4vw;
 	text-align: center;
 }
 
 .post-title-link {
 	color: black;
 	text-align: center;
-	font-size: 2em;
-	font-size: 1vw;
+	font-size: .8em;
+	// font-size: 2vw; // this setting makes the text size dynamic to the screen size
 	h2 {
 		background-color: skyblue !important;
 		margin: 0;
