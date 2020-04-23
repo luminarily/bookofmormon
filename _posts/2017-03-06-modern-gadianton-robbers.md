@@ -5,7 +5,7 @@ date: 2017-03-06 04:48:00 -0700
 tags: 'politics conspiracies'
 published: true
 description: 'The Nephites fell because the corruption of the Gadianton robbers was not completely eradicated from their midst.'
-post_author: chasmiclysm
+post_author: Ondi-Ahman
 comments: true
 image: /images/posts/The_Fumigator_Awakens.png
 ---
