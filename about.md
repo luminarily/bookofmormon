@@ -21,3 +21,5 @@ You are affected by the information you know, and unswayed by the information yo
 **DISCLAIMER** - Obviously, these are MY views and do not necessarily reflect those of The Church of Jesus Christ of Latter-Day Saints. This website is in no way affiliated with the Church.
 
 ** For sake of brevity, Book of Mormon will often be acronized as <kbd>BKMN</kbd> on this website.
+
+<p>This site was designed originally from a theme designed by <a href="https://twitter.com/chalatz" title="Christos Alatzas twitter page">Christos Alatzas</a> and is powered by <a href="http://www.jekyllrb.com" target="_blank">Jekyll.</a></p>

@@ -274,15 +274,17 @@ a {
 		}
 	}
 	.archives-month {
-		font-size: .5em;
+		font-size: 1em;
 		text-align: left !important;
 		display: inline-block;
 		margin-top: 0px;
 		margin-bottom: 0px;
 		box-shadow: 0 0px 0px 0px $dark-gray;
+		margin: 0px auto !important;
 	}
 	.archives-post-title {
 		// font-size: .7em;
+		font-size: 1em;
 		color: $link;
 		font-weight: bold;
 		&:hover {
