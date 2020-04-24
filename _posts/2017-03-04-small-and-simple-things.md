@@ -18,7 +18,7 @@ image: /images/posts/what_happened_happened_trump_wm.png
 * "Donald Trump Talks Like a Third-Grader ... If you were to market Donald Trump’s vocabulary as a toy, it would resemble a small box of Lincoln Logs." - [Jack Shafer - Politico][5]
 * "Donald Trump's use of grammar 'typical of children aged 11 and under'" - [Serina Sandhu - INDEPENDENT.co.uk][6]
 
-<img style="margin: auto; display: block;" src="{{site.baseurl}}images/posts/what_happened_happened_trump_wm.png" />
+<img style="margin: auto; display: block;" src="{{site.baseurl}}/images/posts/what_happened_happened_trump_wm.png" />
 
 **Do you ever find yourself in surreal awe that Donald Trump is the President?** Considering the forces that were working against him, I often find myself thinking that if Trump had changed anything about his character or technique or delivery, he would not have been able to win.
 

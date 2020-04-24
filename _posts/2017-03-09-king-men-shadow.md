@@ -15,7 +15,7 @@ image: /images/posts/2017/antifa_large.jpg
 Antifa and the shadow government find a comparison in this by staging their insurrection against the elected government.
 
 <figure>
-  <img style="margin: auto; display: block;" src="{{site.baseurl}}images/posts/2017/antifa.jpg" alt="antifa">
+  <img style="margin: auto; display: block;" src="{{site.baseurl}}/images/posts/2017/antifa.jpg" alt="antifa">
   <figcaption style="text-align: center;">"Hello there. We are Antifa. We like to hide our faces and beat innocent people up. We are fascists."<br><a href="http://imgur.com/ipwedDB?">Source 1</a> | <a href="https://www.reddit.com/r/The_Donald/comments/5xke29/hello_there_we_are_antifa_we_like_to_hide_our/">Source 2</a></figcaption>
 </figure>
 
