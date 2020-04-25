@@ -5,20 +5,16 @@ date: 2017-03-06 04:48:00 -0700
 tags: 'politics conspiracies'
 published: true
 description: 'The Nephites fell because the corruption of the Gadianton robbers was not completely eradicated from their midst.'
-post_author: Ondi-Ahman
+post_author: the_awakening
 comments: true
 image: /images/posts/The_Fumigator_Awakens.png
 ---
 
-#### The Nephites fell because the corruption of the Gadianton robbers was not completely eradicated from their midst.
+The Gadiaton Robbers were a radical group in the Book of Mormon who gained power through murder and who robbed from the working class to survive. The Nephites fell because the corruption of the Gadianton robbers was not completely eradicated from their midst.
 
-###### The Gadiaton Robbers were a radical group in the Book of Mormon who gained power through murder and who robbed from the working class to survive.
-
-Workers and robbers cannot coexist. We must "fumigate" the swamp and cause the swamp creatures to reveal themselves. Then, we must go after them with the full force of the law. This is the only way for America to retore herself to the Republic.
+*Workers* and robbers cannot coexist. We must "fumigate" (or shine a light on) the swamp to cause the swamp creatures to reveal themselves. Then, we must go after them with the full force of the law. This is the only way for our Constitutional Republic to be restored.
 
 <img style="margin: auto; display: block;" src="{{site.baseurl}}/images/posts/The_Fumigator_Awakens.png" />
-
-# Can't we just go as we're going, treading lightly against the wicked ones in high places? No, not unless we want to fail.
 
 We must purge government corruption if we are to succeed. Unfortunately, conspiracies are a [very real thing][7], and, like any other living thing, will fight viciously to protect themselves.
 
@@ -53,10 +49,6 @@ Christ proclaimed,
 **Despite Jesus' sober and dire warning, there are many who choose power and influence through Mahan, over their own souls.**
 
 Despite the light of Christ and contrary to their own conscience, they allowed themselves to be deceived by Satan - step by step, lie by lie - into a living hell they only thought possible in their nightmares. Consider on the state of politicians who live a life in constant fear of being "found out" and in fear of their dark deeds being discovered. How sad - for the things they have done, and for the existence they live.
-
-# Did Gadianton create his cunning plans and rules of Mahan?
-
-## No, he got them from Satan, just like Cain did.
 
 > 26 Now behold, those secret oaths and covenants did not come forth unto Gadianton from the records which were delivered unto Helaman; but behold, **they were put into the heart of Gadianton by that same being** who did entice our first parents to partake of the forbidden fruit—
 >
