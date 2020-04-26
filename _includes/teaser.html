@@ -1,5 +1,5 @@
 <div class="post">
-
+	<div class="post-content-wrapper">
     <div class="post-icon-image {{ post.icon }}"></div>
 
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-title-link">
@@ -14,12 +14,13 @@
           <img class="low-res-image" src="/{{post.hero_low | prepend: site.baseurl}}" alt="{{post.hero_alt}}">
         </div>
       {% endif %}
-      {{ post.excerpt | truncatewords:200 }}
+      {{ post.excerpt | truncatewords:100 }}
     </div>
 
     <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
        <span class="read-more-text">Read More</span>
         <span class="cross">+</span>
     </a>
-
 </div>
+</div>
+    <br><br><br>

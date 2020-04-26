@@ -4,19 +4,18 @@ title: About
 permalink: /about/
 ---
 
-I love my country and I love my flag. I am grateful for the rule of law and have great desires for it to be enforced and protected.
+The Book of Mormon is an inspired work chronicaling the doings of several ancient civilizations, including the Nephites, Lamanites and Jaredites.
 
-As you read these posts, I think you're going to be floored at how accurately the Book of Mormon has prophesied today's current events and how in-line it is with the return of **conservatism** in the United States.
+These nations were located in the Americas. The Lord has caused these lands to be cursed for the wicked's sake and blessed for the righteous' sake.
 
-## The Book of Mormon was written "for our day" - outlining a prior civilization inhabiting the same area as the U.S.A. - thus, much of what is written in the Book of Mormon is prophetic in the sense that it is an archetype and cautionary tale for our modern civilization.
+Thus, the transpirings of past civilizations on this contenant are of great worth to those who inhabit it, as history is doomed to repeat itself unless we learn from it and heed the lessons of the past lest we befall the same fate.
 
-Many Mormons have been shocked by what has happened in America and the world recently. Unfortunately, this is due to deception and misinformation by the great Beast of Revelation (the globalist cabal) but such surprise at the division in the United States is, in my opinion, unwarranted.
+The Book of Mormon, in this sense, was written for our day, the day of America's power. For, as goes America, so goes much of the world.
 
-Non-mormons who find this site may find it fascinating as well as refreshing to see that, despite certain prominent Mormons and their views / actions, there are many of us who have been awake to the dire situation for many years.
+In this sense, the *entire* Book of Mormon is a prophetic work - not just those passages which are overtly prophesying.
 
-You are affected by the information you know, and unswayed by the information you don't know. The great heads of the beast of revelation are spewing blasphemies.The media outlets are part of these heads and if you only get your information and spin from them, you will inevitably place evil for good and good for evil. I have created this website as a way to help provide a BASED Mormon perspective - deriving perspective on what the Book of Mormon truly says. The Book of Mormon is de-fact Americana folks, believe me ;)
+This site is dedicated to amazing relevance of the Book of Mormon and Bible to our day.
 
-\*Please note: Most, if not all, of the stylized text (italics, bold, etc...) in scriptures I share is my own - added for emphasis.
 
 **DISCLAIMER** - Obviously, these are MY views and do not necessarily reflect those of The Church of Jesus Christ of Latter-Day Saints. This website is in no way affiliated with the Church.
 

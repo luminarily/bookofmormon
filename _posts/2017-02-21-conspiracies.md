@@ -2,42 +2,16 @@
 layout: post
 title: "Conspiracies"
 date: 2017-02-21 16:11:43 -0700
-tags: 'politics conspiracies'
+tags: 'bookofmormon'
 published: true
 description: 'The Book of Mormon teaches that conspiracies are real, massive, deliberate, and dangerous.'
 post_author: the_awakening
 comments: true
 ---
 
-##### The Book of Mormon teaches that conspiracies are real, massive, deliberate, and dangerous.
+The Book of Mormon teaches that conspiracies are real and are a legitimate threat to freedom.
 
-Mormons are taught, by their own scripture, to **believe** in conspiracies - that they are real and that they are a legitimate threat to freedom. In fact, we are taught *by our own scripture* that there is a secret combination - a New World Order - (note the *singular* use of the word in the below verse) setup among the kingdoms of the gentiles that is powerful enough to enslave the planet.
-
-###### "Secret combinations" is a term used in the Book of Mormon to describe organized, malicious conspiracies among individuals who seek goals which harm others.
-
-> 23 Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown unto you, that thereby ye may repent of your sins, and **suffer not that these murderous combinations shall get above you**, which are built up to get power and gain—and the work, yea, even the work of destruction come upon you, yea, even the sword of the justice of the Eternal God shall fall upon you, to your overthrow and destruction if ye shall suffer these things to be.
->
-> 24 Wherefore, the Lord commandeth you, when ye shall see these things come among you that ye shall **awake to a sense of your awful situation**, because of **this secret combination** which shall be among you; or wo be unto it, because of the blood of them who have been slain; for they cry from the dust for vengeance upon it, and also upon those who built it up.
->
-> 25 For it cometh to pass that whoso buildeth **it** up seeketh to overthrow the freedom of **all** lands, nations, and countries; and it bringeth to pass the destruction of **all** people, for it is built up by the devil, who is the father of all lies; even that same liar who beguiled our first parents, yea, even that same liar who hath caused man to commit murder from the beginning; who hath hardened the hearts of men that they have murdered the prophets, and stoned them, and cast them out from the beginning.
-> 
-> [Ether 8:23-25][18] (Book of Mormon)
-
-We are counseled to not allow secret combinations to get above us. Furthermore, we are informed that there is one Secret Combination in particular that has amassed enough power, through deception, subterfuge and force, to threaten the freedom of not only one country, but in fact that of the entire planet.
-
-Ponder that for a time.
-
-I've observed a tendency among my fellow Mormons to dismiss conspiracy through attributing it all to Satan (**thus minimizing earthly organization and form, absolving mortal institutions and technologies of any guilt**). While Satan is the head of his church, many don't realize that Satan has setup earthly bureaucracies and armies interwoven among the nations of the world.
-
-##### YOU are a part of these SYSTEMS (you are "in the world") whether you know it or not - and until you see them for what they are, you risk being proponents of those systems (or being "of the world") - upholding them, however unknowingly.
-
----
-
-A related question illustrates the importance of recognizing the tell-tale signs of conspiracies and secret combinations.
-
-# Q: What eventually lead to the entire destruction of the people of Nephi in the Book of Mormon?
-
-## A: Secret Combinations (in particular, conspiracies at the head of government.)
+<div class="block blue">Do you know why the Nephite nation was destroyed?</div>
 
 > 19 For the Lord worketh not in **secret combinations**, neither doth he will that man should shed blood, but in all things hath forbidden it, from the beginning of man.
 > 
@@ -47,16 +21,43 @@ A related question illustrates the importance of recognizing the tell-tale signs
 > 
 > [Ether 8:19-21][7] (Book of Mormon)
 
-These secret combinations were upheld through **specific** actions / oaths of mortal men and women. They didn't just coalesce out of the ether of Outer Darkness into a non-definable form. No, [secret combinations have specific forms][4] - albeit in secret and darkness.
+<sub>Note: "Secret combination" is a term used in the Book of Mormon that means conspiracy.</sub>
 
-**The Book of Mormon refers to secret combinations / conspiracies [26 times][8].** That's 26 times we're counseled in the Book of Mormon essentially to not dismiss conspiracies, but to take them seriously as if our very freedoms depended on fighting and overcoming them.
+If that wasn't cautionary enough, we are further warned that there is a secret combination setup among the kingdoms of the gentiles that is *powerful enough to threaten the freedom of the entire planet*.
 
-This is EXACTLY what the Gentiles were doing when they voted Trump on election day.
+> 23 Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown unto you, that thereby ye may repent of your sins, and suffer not that these murderous combinations shall get above you, which are built up to get power and gain—and the work, yea, even the work of destruction come upon you, yea, even the sword of the justice of the Eternal God shall fall upon you, to your overthrow and destruction if ye shall suffer these things to be.
+>
+> 24 Wherefore, the Lord commandeth you, when ye shall see these things come among you that ye shall **awake to a sense of your awful situation**, because of **this secret combination** which shall be among you; or wo be unto it, because of the blood of them who have been slain; for they cry from the dust for vengeance upon it, and also upon those who built it up.
+>
+> 25 For it cometh to pass that whoso buildeth **it** up seeketh to overthrow the freedom of **all** lands, nations, and countries; and it bringeth to pass the destruction of **all** people, for it is built up by the devil, who is the father of all lies; even that same liar who beguiled our first parents, yea, even that same liar who hath caused man to commit murder from the beginning; who hath hardened the hearts of men that they have murdered the prophets, and stoned them, and cast them out from the beginning.
+> 
+> [Ether 8:23-25][18] (Book of Mormon)
+
+We are counseled, and I believe **commanded**, to not allow secret combinations to get above us. Furthermore, we are informed that there is one Secret Combination in particular that has amassed enough power, through deception, subterfuge and force, to threaten the freedom of not only one country, but in fact that of the entire planet.
+
+There is a dangerous tendency to dismiss any organized conspiracy through abstract attribution to Satan *alone*. **This minimizes earthly organization and form, exhonerating wordly institutions of any potential wrong-doing**). 
+
+While Satan is the head of his church, many don't realize that he has set up earthly bureaucracies and taken control of armies.
+
+<div class="block yellow">	
+	Everyone is a part of these systems ("in the world") whether aware of it or not.<br>
+	Until seen for what they are, one risks being agents of those systems ("of the world")
+</div>
 
 
-#### We voted against the "false song of globalism". We voted against the New World Order. We voted against the Secret Combination that seeks the overthrow of all world democracies.
+---
 
-Can you imagine posting this on your social media account? I think it's very telling how there's a palpable hostility against those who voted Trump.
+These secret combinations were upheld through **specific** actions / oaths of mortal men and women. They didn't just "coalesce" out of the ether of Outer Darkness into a non-definable form. No, [secret combinations have specific forms][4] - albeit in secret and darkness, for darkness is the corrupt soil from which they sprout.
+
+**The Book of Mormon refers to secret combinations / conspiracies [26 times][8].** That's 26 times we're counseled in the Book of Mormon essentially to not dismiss conspiracies, but to take them seriously as if our very freedoms depended on fighting and overcoming them. 
+
+Though this may be extremely difficult to understand for some, this is EXACTLY what the American Gentiles were doing when they voted Trump on election day.
+
+<div class="block orange">
+	We voted against the "false song of globalism". We voted against the New World Order. We voted against the Secret Combination that seeks the overthrow of all world democracies. The fight continues at the state and county level as individuals are learning to discern the honest from the deceitful.
+</div>
+
+Can you imagine posting this on your social media account? I think it's very telling how there's a palpable hostility against those who voted Trump and a fear to express conservative views.
 
 It continues to be common for Mormons to dismiss any claim of conspiracy as simply a theory without merit.
 
