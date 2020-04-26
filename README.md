@@ -13,3 +13,7 @@ h3 $yellow;
 h4 $light-orange;
 h5 $light-red;
 h6 $dark-gray;
+
+# Search CSS Locations
+
+`/home/mike/projects/bookofmormon/,-/home/mike/projects/bookofmormon/_site/*,-/home/mike/projects/bookofmormon/.jekyll-cache/*,-/home/mike/projects/bookofmormon/.sass-cache/*,-/home/mike/projects/bookofmormon/_posts/*,-/home/mike/projects/bookofmormon/js/*`

@@ -10,9 +10,9 @@ comments: true
 image: /images/posts/2017/antifa_large.jpg
 ---
 
-#### King-Men from the Book of Mormon did not accept election results.
+#### "King-Men" did not accept election results.
 
-Antifa and the shadow government find a comparison in this by staging their insurrection against the elected government.
+Antifa and the shadow government find a parallel in this by staging their insurrection against the will of the people and the result of the electoral system.
 
 <figure>
   <img style="margin: auto; display: block;" src="{{site.baseurl}}/images/posts/2017/antifa.jpg" alt="antifa">
