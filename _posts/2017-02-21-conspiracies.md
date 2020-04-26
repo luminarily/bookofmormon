@@ -2,7 +2,7 @@
 layout: post
 title: "Conspiracies"
 date: 2017-02-21 16:11:43 -0700
-tags: 'bookofmormon'
+tags: 'bookofmormon luciferiandoctrine'
 published: true
 description: 'The Book of Mormon teaches that conspiracies are real, massive, deliberate, and dangerous.'
 post_author: the_awakening
@@ -60,6 +60,10 @@ Don't think you're open to the reality of conspiracies now that Trump has been e
 
 ### Not realizing *how bad things were* before 2016, it's hard to understand why most American counties chose how they did November 8th, 2016.
 
+Just search images for `2016 election results counties`.
+
+---
+
 # Why are secret combinations dismissed as conspiracy theories when the Book of Mormon explicitly warns us us about them?
 
 Perhaps it stems from the notion that obedience is the [first law of heaven][1]. Because obedience to God's law and to his ordained authorities on the earth is valued, I think there is a tendency among some to project this reverence for authority on to *worldy authorities*. Although we obey the law of the land, that doesn't mean we necessarily trust any worldly institution that bears worldly authority - - - *\*cough\* big pharma* *\*cough\* career politicians* *\*cough\* etc...* - - - to always do things in our best interests and to always tell us the truth.
@@ -68,13 +72,13 @@ Perhaps it stems from the notion that obedience is the [first law of heaven][1].
 
 For one could put good for evil and evil for good by thinking the good guys are the bad guys and vice versa.
 
-Prior to the election of Donald Trump, many were of the feeling that all was well in Zion when it wasn't. When Trump was elected, the world had "fallen apart". It is natural to vilify those who upend our worlds, even if our worlds were messed up.
+Prior to the election of Donald Trump, many were of the feeling that all was well in Zion when it wasn't. When Trump was elected, the world had "fallen apart". It is natural to vilify those who upend our worlds, even if our worlds are already messed up.
 
 > 21 And others will he pacify, and lull them away into carnal security, that they will say: **All is well in Zion; yea, Zion prospereth, all is well**—*and thus the devil cheateth their souls, and leadeth them away carefully down to hell*.
 > 
 > [2nd Nephi 28:21][19] (Book of Mormon)
 
-I can see how some reading this may assume that Trump is now the conspiracy that we must fight and take down. However, this is mistake. Being [quick to observe][2] is not an easy choice, as one becomes keenly and painfully aware.
+I can see how some reading this may assume that Trump is now the conspiracy that we must fight and take down. However, this is mistake. Being [quick to observe][2] is not an easy choice, as one becomes keenly and painfully aware, but it's better to observe soon in the game so the rest of the game makes sense and things can be seen for what they truly are.
 
 Unfortunately, if one wakes up too late, there is a risk of waking up "on the wrong side of the bed", being confused as to what is good and what is evil. Satan is a master of deception. Consider - the country is at more than just a political divide. Truly, we are at an ideological divide. But, we cannot pass judgment on whether people are "worthy Christians" because the deception runs very deep and we are taught that 
 
@@ -82,15 +86,15 @@ Unfortunately, if one wakes up too late, there is a risk of waking up "on the wr
 > 
 > [Isaiah 29:24][5] (Bible)
 
-So, it's not our place to pass defining judgment, but we can and should judge light from dark; the Book of Mormon [tells us how][6].
+It's not our place to pass judgment on others, but we can and should judge light from dark; the Book of Mormon [tells us how][6].
 
 If you are to understand the year 2016 and why America chose Donald Trump - despite the condemnations of virtually every establishment sector, you *must* understand: things were bad - **really bad** - and mainly due to the Secret Combination that was (and is) undermining our democracy and our freedom.
 
-If you are not aware of these workings in darkness, and you do not seek to understand them at least a little, then it seems only natural to hate Trump and think his supporters have lost their minds.
+If you are not aware of these workings in darkness, and you do not seek to understand them at least a little, then it seems only natural to hate Trump and think his supporters have lost their minds. This isn't about Trump though. It's about the conservative movement in America to restore the Constitutional Republic.
 
 This is not the be-all, end-all - this is <i><b>*a piece*</b></i> of the puzzle in taking the red pill to wake up to our awful situation.
 
-We are [commaned][20] to awaken to our awful situation. Now, thankfully it's finally all out in the open.
+We are [commanded][20] to awaken to our awful situation. Thankfully, things are finally seeing the light of day.
 
 Here are some other things to look into.
 
@@ -113,11 +117,11 @@ Don't buy into the notions..
 * "The media wouldn't lie."
 * "I don't trust anything but reputable, mainstream news outlets."
 
-Don't be naive. Corruption seeks money, power and evasion of consequence at *any* cost.
+These are, honestly, a bit naive. Corruption seeks money, power and evasion of consequence at *any* cost.
 
 ##### The Nephite nation was destroyed by secret combinations - conspiracies.
 
-# Why do you think the mainstream media calls any conspiracy a theory?
+# Why do you think the mainstream media is so quick to apply the conspiracy theory label?
 
 Psychological inoculation against truth. And that is the truth.
 

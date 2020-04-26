@@ -2,7 +2,7 @@
 layout: post
 title: "Robbers"
 date: 2017-03-06 04:48:00 -0700
-tags: 'bookofmormon mahan'
+tags: 'bookofmormon luciferiandoctrine'
 published: true
 description: 'The Nephites fell because the corruption of the Gadianton robbers was not completely eradicated from their midst.'
 post_author: the_awakening
