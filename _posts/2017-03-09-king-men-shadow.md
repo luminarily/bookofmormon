@@ -2,7 +2,7 @@
 layout: post
 title: "Insurrection of the King-Men"
 date: 2017-03-09 04:50:00 -0700
-tags: 'politics conspiracies'
+tags: 'bookofmormon'
 published: true
 description: 'King-men from the Book of Mormon did not accept the results of their election.'
 post_author: the_awakening
@@ -25,8 +25,6 @@ Reagan "..if fascism ever comes to America, it will come in the name of liberali
 
 <iframe style="margin: auto; display: block;" width="560" height="315" src="https://www.youtube.com/embed/bYwQxvFAIJY" frameborder="0" allowfullscreen></iframe>
 
-So what can we learn from the Book of Mormon about this situation?
-
 > 4 Therefore, those who were desirous that the law should be altered were angry with him, and **desired that he should no longer be chief judge over the land**; therefore there arose a *warm dispute concerning the matter, but not unto bloodshed*.
 > 
 > 5 And it came to pass that those who were desirous that Pahoran should be **dethroned from the judgment-seat were called king-men**, for they were desirous that the **law should be altered in a manner to overthrow the free government** and to establish a king over the land.
@@ -43,13 +41,13 @@ Keep reading...
 
 ## The *freemen* won the dispute by the democratic vote of the people.
 
-So, the king-men were had to comply with the interests of the country; however, we will see that this did not last and they became a danger to the country.
+So, the king-men we obliged to comply with the interests of the country; however, we will see that this did not last and they became a danger to the country.
 
 > 8 Now those who were in favor of kings were **those of high birth**, and they sought to be kings; and they were **supported by those who sought power and authority over the people.**
 > 
 > [Alma 51:8][9] (Book of Mormon)
 
-Sound familiar? Hollywood elite? Fortune 500 CEO elite? Media elite? Political elite? Shadow government elite? These groups certainly seem to fit profile of the king-men.
+Hollywood elite? Fortune 500 CEO elite? Media elite? Political elite? Shadow government elite? These groups certainly seem to fit profile of the king-men. And there are evidences of financial support from the likes of George Soros.
 
 > 9 But behold, this was a **critical time for such contentions to be among the people of Nephi**; for behold, Amalickiah had again stirred up the hearts of the people of the Lamanites against the people of the Nephites, and he was gathering together soldiers from all parts of his land, and arming them, and preparing for war with all diligence; for he had sworn to drink the blood of Moroni.
 > 
@@ -63,11 +61,9 @@ This was a *very* precarious time of war to be having an internal conflict for t
 > 
 > [Alma 51:12-13][11] (Book of Mormon)
 
-This internal strife had now become a *direct and present threat* to the security of the entire Nephite nation. Here they were, with a hostile army at their borders and there was a group within that threatened the success of the entire country.
+This internal strife had now become a *direct and present threat* to Nephite national security. The greater enemy was domestic. Here they were, with a hostile army without the borders and a hostile enemy within.
 
-Captain Moroni, one of the great heroes in the Book of Mormon, brought down the hammer of justice on the king-men.
-
-This excerpt speaks for itself.
+Captain Moroni, one of the great military leaders in the Book of Mormon, brought down the hammer of justice on the king-men.
 
 > 14 And it came to pass that when Moroni saw this, and also saw that the Lamanites were coming into the borders of the land, he was exceedingly wroth because of the **stubbornness of those people whom he had labored with so much diligence to preserve**; yea, he was exceedingly wroth; his soul was filled with anger against them.
 > 
@@ -89,7 +85,9 @@ This excerpt speaks for itself.
 * The contentions and dissensions **among the people** had been the cause of ALL of the destruction of the Nephites. A house divided cannot stand. Those king-men who do not accept the results of the election, who fight against the national flag, cause great national difficulty and tribulation.
 * The hour is late; the stakes and threats are great - there is no time to just "let things work themselves out." This is why Trump has decided to go after ALL of the king-men - not just those outside of the government. If you threaten national security, you will not be held blameless by the government or the people.
 
-### However, we might be too late. We are fighting to keep our head above water (the water being the secret combinations / conspiracies seeking to destroy our liberty). Have we awoken too late? Have we been too slow to turn to our Creator?
+Currently, we are fighting to keep our head above water. Have we awoken too late? Have we been too slow to turn to our Creator?
+
+I don't think so, but we are cutting it close.
 
 > 7 They were slow to hearken unto the voice of the Lord their God; therefore, the Lord their God is slow to hearken unto their prayers, to answer them in the day of their trouble.
 > 
@@ -111,21 +109,20 @@ I have been criticized for sharing instances of violence against Trump supporter
 
 It's important to know what's *really* happening in world, otherwise you open yourself up to being deceived not knowing which side is by and large engendering and inciting violence and social unrest.
 
-> "The hardest part of explaining propaganda to people is getting them to accept they've been duped." - Justin King
+	"The hardest part of explaining propaganda to people is getting them to accept they've been duped."
+	- Justin King
 
 Why does this concept encounter such resistance? Why do people immediately put up their defenses when they are told to acknowledge correlation? Why do they automatically say "correlation does not prove causation," as if this statement proves there is no causation-connection? What do they mean?
 
 But, I digress.
 
-Now what? Well, we must pay the price of dissension and lawlessness.
+Now what? We pay the price of dissension and lawlessness.
 
 Due to the king-men, the Lamanite army was [able to take many Nephite cities][15]. Many lives were lost as a bloody trail followed the Lamanite advance. However, Moroni's decisive courage to face [Gadianton's followers][16] directly enabled the Nephites to stabilize the situation and regain control.
 
 > 16 Yea, **had it not been for the war which broke out among ourselves**; yea, were it not for these **king-men**, who caused so much bloodshed among ourselves; yea, at the time we were contending among ourselves, *if we had united our strength as we hitherto have done; yea, had it not been for the desire of power and authority which those king-men had over us; had they been true to the cause of our freedom, and united with us, and gone forth against our enemies*, instead of taking up their swords against us, which was the cause of so much bloodshed among ourselves; yea, if we had gone forth against them in the strength of the Lord, **we should have dispersed our enemies**, for it would have been done, according to the fulfilling of his word.
 > 
 > [Alma 60:16][13]
-
-##### The longer the shadow government (king-men) continue the wreak havoc on our democracy, the more difficult it will be (if not impossible) to restore the Republic.
 
 [7]: https://www.lds.org/scriptures/bofm/alma/51.4-5?lang=eng#3
 [8]: https://www.lds.org/scriptures/bofm/alma/51.6-7?lang=eng#5

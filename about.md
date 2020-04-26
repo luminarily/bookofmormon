@@ -4,13 +4,19 @@ title: About
 permalink: /about/
 ---
 
-I believe we are closer than ever to the Second Coming of Jesus Christ. Many of the events taking place are shrouded in thick, cryptic events and language. Without watching, deliberately, conscientiously, and through the lense of what the scriptures say, I think there's a real risk of missing out and not seeing the events transpiring for what they are: fulfillment of prophecy.
+I am a husband and father. I've studied the Book of Mormon for much of my life. I wish to share what I've learned with the world. I feel the Book of Mormon is largely underappreciated and often misunderstood. Of a truth, it testifies of Christ and the entire book is chock full of prophecy and spiritual nourishment.
+
+Anyone is welcome here - even if you have no interest in the Church, perhaps out of curiosity you will find the content here interesting if only as a religious study.
+
+With that said, I believe we are closer than ever to the Second Coming of Jesus Christ. Many of the events taking place are shrouded in thick, cryptic events and language. Without watching, deliberately, conscientiously, and through the lense of what the scriptures say, I think there's a real risk of missing out and not seeing the events transpiring for what they are: fulfillment of prophecy.
 
 Indeed, culture, social norms and stigmas have gotten to a point where one is quickly labeled a conspiracy theorist by others because of the simple act of "watch ye therefore". This trajectory has lead us to an environment where one cannot watch for Christ without being judged and labeled.
 
+My target audience is anyone who will listen.
+
 Open your mind. Suspend your doubt.
 
-The world is NOT what it seems, and the Book of Mormon has been warning us for decades about what is coming.
+The world is not what it seems, and the Book of Mormon has been warning us for decades about what is coming.
 
 We have been taught as saints by our prophets that we are under great condemnation for not receiving the Book of Mormon fully.
 

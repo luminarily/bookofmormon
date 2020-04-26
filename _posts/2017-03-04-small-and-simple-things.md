@@ -10,7 +10,9 @@ comments: true
 image: /images/posts/what_happened_happened_trump_wm.png
 ---
 
-## Small & simple things bring great things and confound high ones.
+## Small & simple things.
+
+I am writing this post because reducing Trump to a simpleton description (as if that's a bad thing) is not an argument and we'd better find better criticisms.
 
 * "Is Donald Trump a simpleton?" - vis-a-vis [AARP Online Community][2]
 * "Trump is a complete simpleton." - [libertybill on Tumblr][3]
@@ -57,7 +59,7 @@ Trump had almost the entire establishment against him:
 > 
 > [Alma 37:6-7][1] (Book of Mormon)
 
-#### The Establishment - with UNLIMITED funds, power, resources, and corrupt dealings - were ultimately **confounded** by Trump, the simpleton.<br><br>They couldn't, not even with all their complex machinations, systems of control and thought-curation through media propaganda could not stop ONE MAN from toppling their entire reality.
+#### The Establishment - with UNLIMITED funds, power, resources, and corrupt dealings - were ultimately **confounded** by Trump, the simpleton.<br><br>They could not, no not even with all their complex machinations, systems of control and thought-curation through media propaganda -- stop ONE MAN from toppling their entire reality.
 
 Who would have thought Trump's tactic of going directly to the people and telling them to put their country first would be so effective? He would use widely-comprehensible phrases such as "we don't *win* anymore."
 
@@ -87,9 +89,9 @@ All the establishment has power over is their narrative and illusion. As long as
 > 
 > [Romans 1:21][8] (Bible)
 
-Once you understand these concepts, you understand why Trump would often say in his speeches, "this is reality," when referring to the corrupt establishment and his plain way of describing what needed to be done.
+Trump would often say in his speeches, "this is reality," when referring to the corrupt establishment and his plain way of describing what needed to be done.
 
-Simple and plain things are, more often than not, TRUE. Because they are true, they have an unbreakable foundation, whereas lies are built on an imaginary base which, if discovered, begins to crumble.
+Simple and plain things are often true. Because they are true, they have an unbreakable foundation, whereas lies are built on an imaginary base which, if discovered, begins to crumble.
 
 > 24 ¶Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
 > 
@@ -101,7 +103,7 @@ Simple and plain things are, more often than not, TRUE. Because they are true, t
 > 
 > [Matthew 7:24-27][9] (Bible)
 
-#### Those who build their lives around falsehood and lies eventually meet the day when the fiery simplicity of truth vaporizes their illusory foundation - a day when their vain ambition meets simple, severe reality and justice demands his own.
+#### Those who build their lives around falsehood and lies eventually meet the day when the fiery simplicity of truth vaporizes their illusory foundation - a day when their vain ambition meets simple, unrelenting reality.
 
 [1]: https://www.lds.org/scriptures/bofm/alma/37.6-7?lang=eng#5
 [2]: http://community.aarp.org/t5/Politics-Current-Events/IS-DONALD-TRUMP-A-SIMPLETON/td-p/1746105
