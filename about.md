@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a husband and father. I've studied the Book of Mormon for much of my life. I wish to share what I've learned with the world. I feel the Book of Mormon is largely underappreciated and often misunderstood. Of a truth, it testifies of Christ and the entire book is chock full of prophecy and spiritual nourishment.
+I've studied the Book of Mormon for much of my life. I wish to share what I've learned with the world. I feel the Book of Mormon is largely underappreciated and often misunderstood. Of a truth, it testifies of Christ and the entire book is chock full of prophecy and spiritual nourishment. I've always had an interesting coding and web dev, so it made sense to share my spiritual beliefs in a medium with which I'm familiar.
 
 Anyone is welcome here - even if you have no interest in the Church, perhaps out of curiosity you will find the content here interesting if only as a religious study.
 

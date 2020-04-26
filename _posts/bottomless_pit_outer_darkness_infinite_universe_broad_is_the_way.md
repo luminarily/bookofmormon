@@ -2,7 +2,7 @@
 layout: post
 title: "Insurrection of the King-Men"
 date: 2017-03-09 04:50:00 -0700
-tags: 'politics conspiracies'
+tags: ''
 published: false
 description: 'King-men from the Book of Mormon did not accept the results of their election.'
 post_author: the_awakening

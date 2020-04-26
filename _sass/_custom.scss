@@ -10,14 +10,33 @@ $light-yellow: lighten($yellow, 15%);
 $dark-yellow: darken($yellow, 30%);
 $pink: #FFC0CB;
 $blue: #4169e1;
+$green: #008000;
+$red: #ff0000;
+$gray: gray;
+$h1: #70D6FF;
+$h2: #E9FF70;
+$h3: #FFD670;
+$h4: #FF9770;
+$h5: #FF70A6;
+$h6: #4a4e69;
 
 .post {
+	border: 1px solid white;
+}
+
+.post-body{
+	border: 1px solid gray;
+}
+
+// .post-body {
+// .post-body {
+.main-content {
 	// background-color: #fff;
 	// padding: .5em;
 	// margin-bottom: 1em;
 	// border: 1px solid #e4e4e4;
 	// box-shadow: 15px 15px 2px -10px #444;
-	border-bottom: 3px solid black;
+	// border: 1px solid gray;
 }
 
 .site-logo {
@@ -72,6 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0px auto;
 	background-color: $light-gray;
 	padding: $baseline/4 $baseline*1.5;
+	text-decoration: underline;
 	margin-bottom: $baseline;
 	margin-top: $baseline;
 	position: relative;
@@ -80,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
 	border-radius: 20px;
 	text-align: center !important;
-	width: 95%;
+	width: 100%;
 
 	.line1,
 	.line2 {
@@ -116,9 +136,9 @@ h1, h2, h3, h4, h5, h6 {
 
 
 h1	{
-	background-color: $light-blue;
-	box-shadow: 0 0px 2px 1px $light-blue;
-	border: 1px solid darken($light-blue, 10%);
+	background-color: $h1;
+	box-shadow: 0 0px 2px 1px $h1;
+	border: 1px solid darken($h1, 10%);
 	h3 {
 		color: $dark-blue;
 	}
@@ -131,9 +151,9 @@ h1	{
 }
 
 h2	{
-	background-color: $light-green;
-	box-shadow: 0 0px 2px 1px $light-green;
-	border: 1px solid darken($light-green, 10%);
+	background-color: $h2;
+	box-shadow: 0 0px 2px 1px $h2;
+	border: 1px solid darken($h2, 10%);
 	h3 {
 		color: $dark-green;
 	}
@@ -146,9 +166,9 @@ h2	{
 }
 
 h3	{
-	background-color: $yellow;
-	box-shadow: 0 0px 2px 1px $yellow;
-	border: 1px solid darken($yellow, 10%);
+	background-color: $h3;
+	box-shadow: 0 0px 2px 1px $h3;
+	border: 1px solid darken($h3, 10%);
 	color: black;
 	h3 {
 		color: $dark-red;
@@ -162,9 +182,9 @@ h3	{
 }
 
 h4	{
-	background-color: $light-orange;
-	box-shadow: 0 0px 2px 1px $orange;
-	border: 1px solid darken($orange, 10%);
+	background-color: $h4;
+	box-shadow: 0 0px 2px 1px $h4;
+	border: 1px solid darken($h4, 10%);
 	h3 {
 		color: $dark-orange;
 	}
@@ -177,9 +197,9 @@ h4	{
 }
 
 h5	{
-	background-color: $light-red;
-	box-shadow: 0 0px 2px 1px $light-red;
-	border: 1px solid darken($light-red, 10%);
+	background-color: $h5;
+	box-shadow: 0 0px 2px 1px $h5;
+	border: 1px solid darken($h5, 10%);
 	h3 {
 		color: $dark-red;
 	}
@@ -192,9 +212,9 @@ h5	{
 }
 
 h6	{
-	background-color: $dark-gray;
-	box-shadow: 0 0px 1px 1px $dark-gray;
-	border: 1px solid darken($dark-gray, 10%);
+	background-color: $h6;
+	box-shadow: 0 0px 1px 1px $h6;
+	border: 1px solid darken($h6, 10%);
 	color: white;
 	h3 {
 		color: $dark-red;
@@ -221,7 +241,7 @@ a {
 	// border: solid black 7px;
 	// box-shadow: 0px 0px 0px 0px black;
 	color: black;
-	font-size: 1.5em;
+	font-size: 3em;
 	// font-size: 4vw;
 	text-align: center;
 }
@@ -243,7 +263,7 @@ a {
 
 .titanic {
 	background-color: white;
-	border: solid white 7px;
+	border: solid gray 7px;
 	// box-shadow: 0 15px 2px -10px black;
 	color: black;
 	font-size: 2em;
@@ -329,7 +349,7 @@ kbd {
     box-shadow: inset 0 -1px 0 #bbb;
 }
 
-
+// I use this to define an emphasized thought, that doesn't have many subthoughts that it needs to be a header. It's just a thought I think is extra important.
 .block {
 	margin: 0px auto;
 	background-color: $light-gray;
@@ -338,11 +358,11 @@ kbd {
 	margin-top: $baseline;
 	position: relative;
 	overflow: hidden;
-	font-size: 24px;
+	font-size: 1em;
 	font-weight: normal;
-	border-radius: 20px;
+	border-radius: 10px;
 	text-align: center !important;
-	width: 95%;
+	width: 70%;
 	h3 {
 		color: $dark-blue;
 	}
@@ -377,6 +397,8 @@ kbd {
 }
 .high {
 }
+
+// I am using these to color the blocks I use, since these are different than headers.
 .light-blue {
 	background-color: $light-blue !important;
 	box-shadow: 0 0px 2px 1px $light-blue;
@@ -396,6 +418,11 @@ kbd {
 	background-color: $red !important;
 	box-shadow: 0 0px 2px 1px $red;
 	border: 1px solid darken($red, 10%);
+}
+.green {
+	background-color: $green !important;
+	box-shadow: 0 0px 2px 1px $green;
+	border: 1px solid darken($green, 10%);
 }
 .light-green {
 	background-color: $light-green !important;
@@ -432,6 +459,7 @@ kbd {
 	// top: 0; /* Position the navbar at the top of the page */
 }
 
+// I am not really using this. Using block quotes instead.
 .scripture {
 	margin: 0px auto;
 	color: ghostwhite;
@@ -447,6 +475,39 @@ kbd {
 	margin-bottom: 30px;
 }
 
+
+// .pre.highlight {
+// 	width: 100%;
+// 	font-family: 'Barlow Condensed' !important;
+// }
+
+// .highlight {
+// 	width: 100%;
+// 	font-family: 'Barlow Condensed' !important;
+// }
+
+// for the code blocks (non-scripture quotes)
 .language-plaintext {
-	text-align: right;
+	border-left: 3px solid gray;
+	padding-left: 7px;
 }
+code, kbd, pre, samp {
+	width: 100%;
+	font-family: 'Barlow Condensed' !important;
+}
+
+// .code {
+// 	width: 100%;
+// 	font-family: 'Barlow Condensed' !important;
+// }
+
+// .highlighter-rouge {
+// 	width: 100%;
+// }
+
+h1 { font-size: 1.999em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.1em; }
+h4 { font-size: .9em; }
+h5 { font-size: .8em; }
+h6 { font-size: .7em; }
