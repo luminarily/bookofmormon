@@ -11,7 +11,7 @@ comments: true
 
 The Book of Mormon teaches that conspiracies are real and are a legitimate threat to freedom.
 
-<div class="block blue">Do you know why the Nephite nation was destroyed?</div>
+# Do you know why the Nephite nation was destroyed?
 
 > 19 For the Lord worketh not in **secret combinations**, neither doth he will that man should shed blood, but in all things hath forbidden it, from the beginning of man.
 > 
@@ -39,10 +39,7 @@ There is a dangerous tendency to dismiss any organized conspiracy through abstra
 
 While Satan is the head of his church, many don't realize that he has set up earthly bureaucracies and taken control of armies.
 
-<div class="block yellow">	
-	Everyone is a part of these systems ("in the world") whether aware of it or not.<br>
-	Until seen for what they are, one risks being agents of those systems ("of the world")
-</div>
+### Everyone is a part of these systems ("in the world") whether aware of it or not. <br>Until seen for what they are, one risks being agents of those systems ("of the world")
 
 
 ---
@@ -53,9 +50,7 @@ These secret combinations were upheld through **specific** actions / oaths of mo
 
 Though this may be extremely difficult to understand for some, this is EXACTLY what the American Gentiles were doing when they voted Trump on election day.
 
-<div class="block orange">
-	We voted against the "false song of globalism". We voted against the New World Order. We voted against the Secret Combination that seeks the overthrow of all world democracies. The fight continues at the state and county level as individuals are learning to discern the honest from the deceitful.
-</div>
+## We voted against the "false song of globalism". We voted against the New World Order. We voted against the Secret Combination that seeks the overthrow of all world democracies. The fight continues at the state and county level as individuals are learning to discern the honest from the deceitful.
 
 Can you imagine posting this on your social media account? I think it's very telling how there's a palpable hostility against those who voted Trump and a fear to express conservative views.
 
@@ -63,24 +58,25 @@ It continues to be common for Mormons to dismiss any claim of conspiracy as simp
 
 Don't think you're open to the reality of conspiracies now that Trump has been elected. You can't say you suddenly have the vision to see conspiracies when for the past five or ten years you've denied their existence or simply ignored the possibility. You may think you're justified because of what the media has told you.
 
-### By ignoring *how bad things were* you risk being deceived and misunderstanding why America chose how it did November 8th, 2016.
+### Not realizing *how bad things were* before 2016, it's hard to understand why most American counties chose how they did November 8th, 2016.
 
-How can Mormons dismiss conspiracies when their own Book of Mormon explicitely teaches them to accept their reality AND even to take action against them?
+# Why are secret combinations dismissed as conspiracy theories when the Book of Mormon explicitly warns us us about them?
 
-I posit two main reasons, though I am sure there are many more:
+Perhaps it stems from the notion that obedience is the [first law of heaven][1]. Because obedience to God's law and to his ordained authorities on the earth is valued, I think there is a tendency among some to project this reverence for authority on to *worldy authorities*. Although we obey the law of the land, that doesn't mean we necessarily trust any worldly institution that bears worldly authority - - - *\*cough\* big pharma* *\*cough\* career politicians* *\*cough\* etc...* - - - to always do things in our best interests and to always tell us the truth.
 
+#### There is great risk in discovering this too late.
 
-1. Mormon's believe that obedience is the [first law of heaven][1]. Because they value obedience - to God's law and to his ordained authorities on the earth - I think there is a tendency among some to project this reverence for authority on to *worldy authorities*. This is incorrect. Although we obey the law of the land, that doesn't mean we necessarily trust any worldy instution that bears wordly authority - - - *\*cough\* big pharma* *\*cough\* career politicians* *\*cough\* etc...* - - - to always do things in our best interests and to always tell us the truth.
+For one could put good for evil and evil for good by thinking the good guys are the bad guys and vice versa.
 
-2. Prior to the election of Donald Trump, many were of the feeling that all was well in Zion and that more of the same was better than what Trump had to offer. Because of their feeling that was well, now that Trump is president, it's a natural consequence to feel that everything has fallen apart.
+Prior to the election of Donald Trump, many were of the feeling that all was well in Zion when it wasn't. When Trump was elected, the world had "fallen apart". It is natural to vilify those who upend our worlds, even if our worlds were messed up.
 
 > 21 And others will he pacify, and lull them away into carnal security, that they will say: **All is well in Zion; yea, Zion prospereth, all is well**—*and thus the devil cheateth their souls, and leadeth them away carefully down to hell*.
 > 
 > [2nd Nephi 28:21][19] (Book of Mormon)
 
-I can see how some reading this may assume that Trump is now the conspiracy that we must fight and take down. However, this is mistake. Those of us who have been [quick to observe][2] have been keenly and painfully aware of conspiracies for the past decade and for others, much longer.
+I can see how some reading this may assume that Trump is now the conspiracy that we must fight and take down. However, this is mistake. Being [quick to observe][2] is not an easy choice, as one becomes keenly and painfully aware.
 
-Unfortunately, if you wake up too late, because you've been oblivious to reality in your slumber, you run the risk of waking up "on the wrong side of the bed", being confused as to what is good and what is evil. Satan is a master of deception. Consider - the country is at more than just a political divide. Truly, we are at an ideological divide. But, we cannot pass judgment on whether people are "worthy Christians" because the deception runs very deep and we are taught that 
+Unfortunately, if one wakes up too late, there is a risk of waking up "on the wrong side of the bed", being confused as to what is good and what is evil. Satan is a master of deception. Consider - the country is at more than just a political divide. Truly, we are at an ideological divide. But, we cannot pass judgment on whether people are "worthy Christians" because the deception runs very deep and we are taught that 
 
 > 24 they also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
 > 
@@ -88,17 +84,15 @@ Unfortunately, if you wake up too late, because you've been oblivious to reality
 
 So, it's not our place to pass defining judgment, but we can and should judge light from dark; the Book of Mormon [tells us how][6].
 
-If you are to understand the year 2016 and why America chose Donald Trump - despite the condemnations of virtually every establishment sector, you *must* understand: things were bad - *really bad* - and mainly due to the conspiracies and secret combinations that were undermining our democracy and our freedom.
+If you are to understand the year 2016 and why America chose Donald Trump - despite the condemnations of virtually every establishment sector, you *must* understand: things were bad - **really bad** - and mainly due to the Secret Combination that was (and is) undermining our democracy and our freedom.
 
 If you are not aware of these workings in darkness, and you do not seek to understand them at least a little, then it seems only natural to hate Trump and think his supporters have lost their minds.
 
 This is not the be-all, end-all - this is <i><b>*a piece*</b></i> of the puzzle in taking the red pill to wake up to our awful situation.
 
-I took [Mormon's advice][20] and woke up nearly five years ago because some friends told me about the Federal Reserve and how it's a private entity. This led to a five-year long search and study of the world and what the driving forces are. What I found disturbed me and caused me to bear a burden for many years. So, if Trump's victory is hurting you, it should. You're experiencing the *opposing energies* that were already there, at play between two powerful forces. Now, it's finally all out in the open - thank Heaven. Trump supporters have been bearing this burden for years prior to the election. He simple harnessed the song of angry people into a political movement.
+We are [commaned][20] to awaken to our awful situation. Now, thankfully it's finally all out in the open.
 
-##### If you haven't taken the "red pill" and gone down the rabbit hole, the hour is growing late. Take the red pill, and shatter the illusion.
-
-Would you like to know more? Here are some leads to follow...
+Here are some other things to look into.
 
 * [Secret Combination Movie / Mormon Prophetic Warnings][21]
 * [Federal Reserve][9]
@@ -113,26 +107,33 @@ Would you like to know more? Here are some leads to follow...
 
 Don't buy into the notions..
 
-* "If it was bad for you, they wouldn't sell it!"
+* "If stuff like that was going on, we'd know it about it."
 * "If they knew more, they would tell us!"
 * "The government wouldn't lie to us."
-* "The media wouldn't lie!"
-* "I don't trust anything but reputable, mainstream news outlets!"
-* "There no PROOF!!" - Ahh, but the question you should be asking yourself is why there hasn't been an investigation despite the evidences in question? "There is NO evidence!" - Saying there is no evidence does not mean there is no evidence. Claims *must* be addressed.
+* "The media wouldn't lie."
+* "I don't trust anything but reputable, mainstream news outlets."
 
-Don't be naive. Corruption seeks: MONEY. POWER. EVASION OF LAW. At *any* cost.
+Don't be naive. Corruption seeks money, power and evasion of consequence at *any* cost.
 
-Conspiracies exist, and we must wake up from the slumber with which mainstream media entrances us and grasp the *context of reality* if we are to see things as they are.
+##### The Nephite nation was destroyed by secret combinations - conspiracies.
+
+# Why do you think the mainstream media calls any conspiracy a theory?
+
+Psychological inoculation against truth. And that is the truth.
+
+Sure, there are some theories out there that are way off-target. But, to dismiss everything the media labels as a conspiracy theory is lazy at best.
+
+Conspiracies exist, and we must wake up from the slumber with which mainstream media entrances us and grasp the *context of reality* if we are to see things as they are and be armed with the necessary knowledge to preserve our freedom.
 
 
-[1]: https://www.lds.org/manual/preparing-for-exaltation-teachers-manual/lesson-23-obedience-the-first-law-of-heaven?lang=eng
-[2]: https://www.lds.org/scriptures/bofm/morm/1.2?lang=eng#1
-[3]: https://www.lds.org/scriptures/bofm/ether/8.21?lang=eng#20
-[4]: https://www.lds.org/scriptures/bofm/ether/8.20?lang=eng#20
-[5]: https://www.lds.org/scriptures/ot/isa/29.24?lang=eng#23
-[6]: https://www.lds.org/scriptures/bofm/moro/7.14-19?lang=eng#16
-[7]: https://www.lds.org/scriptures/bofm/ether/8.19-21?lang=eng#19
-[8]: https://www.lds.org/scriptures/search?lang=eng&type=verse&query=combination
+[1]: https://www.churchofjesuschrist.org/manual/preparing-for-exaltation-teachers-manual/lesson-23-obedience-the-first-law-of-heaven?lang=eng
+[2]: https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/1.2?lang=eng#1
+[3]: https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8.21?lang=eng#20
+[4]: https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8.20?lang=eng#20
+[5]: https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29.24?lang=eng#23
+[6]: https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7.14-19?lang=eng#16
+[7]: https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8.19-21?lang=eng#19
+[8]: https://www.churchofjesuschrist.org/study/scriptures/search?lang=eng&type=verse&query=combination
 [9]: https://www.youtube.com/watch?v=5IJeemTQ7Vk
 [10]: https://www.youtube.com/watch?v=KYWx_cFzqro
 [11]: https://www.youtube.com/watch?v=wkaX5n3pfZE
@@ -142,7 +143,7 @@ Conspiracies exist, and we must wake up from the slumber with which mainstream m
 [15]: https://www.youtube.com/watch?v=Xbp6umQT58A
 [16]: https://www.youtube.com/watch?v=D1uARFrI9U4
 [17]: https://www.youtube.com/watch?v=0oMEuyhBkRo
-[18]: https://www.lds.org/scriptures/bofm/ether/8.19-25?lang=en#19
-[19]: https://www.lds.org/scriptures/bofm/2-ne/28.21?lang=eng#20
-[20]: https://www.lds.org/scriptures/bofm/ether/8.24?lang=eng#24
+[18]: https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8.19-25?lang=en#19
+[19]: https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28.21?lang=eng#20
+[20]: https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8.24?lang=eng#24
 [21]: https://www.youtube.com/watch?v=6IOrY4NFnFM

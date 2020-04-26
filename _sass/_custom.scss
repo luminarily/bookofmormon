@@ -66,8 +66,8 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top: $baseline;
 	position: relative;
 	overflow: hidden;
-	// font-size: 24px;
-	// font-weight: normal;
+	font-size: 24px;
+	font-weight: normal;
 	border-radius: 20px;
 	text-align: center !important;
 	width: 95%;
@@ -105,97 +105,97 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-// h1	{
-// 	background-color: $light-blue;
-// 	box-shadow: 0 0px 2px 1px $light-blue;
-// 	border: 1px solid darken($light-blue, 10%);
-// 	h3 {
-// 		color: $dark-blue;
-// 	}
-// 	.line1 {
-// 		background-color: $blue;
-// 	}
-// 	.line2 {
-// 		background-color: $dark-blue;
-// 	}
-// }
+h1	{
+	background-color: $light-blue;
+	box-shadow: 0 0px 2px 1px $light-blue;
+	border: 1px solid darken($light-blue, 10%);
+	h3 {
+		color: $dark-blue;
+	}
+	.line1 {
+		background-color: $blue;
+	}
+	.line2 {
+		background-color: $dark-blue;
+	}
+}
 
-// h2	{
-// 	background-color: $light-green;
-// 	box-shadow: 0 0px 2px 1px $light-green;
-// 	border: 1px solid darken($light-green, 10%);
-// 	h3 {
-// 		color: $dark-green;
-// 	}
-// 	.line1 {
-// 		background-color: $green;
-// 	}
-// 	.line2 {
-// 		background-color: $dark-green;;
-// 	}
-// }
+h2	{
+	background-color: $light-green;
+	box-shadow: 0 0px 2px 1px $light-green;
+	border: 1px solid darken($light-green, 10%);
+	h3 {
+		color: $dark-green;
+	}
+	.line1 {
+		background-color: $green;
+	}
+	.line2 {
+		background-color: $dark-green;;
+	}
+}
 
-// h3	{
-// 	background-color: $yellow;
-// 	box-shadow: 0 0px 2px 1px $yellow;
-// 	border: 1px solid darken($yellow, 10%);
-// 	color: black;
-// 	h3 {
-// 		color: $dark-red;
-// 	}
-// 	.line1 {
-// 		background-color: $red;
-// 	}
-// 	.line2 {
-// 		background-color: $dark-red;
-// 	}
-// }
+h3	{
+	background-color: $yellow;
+	box-shadow: 0 0px 2px 1px $yellow;
+	border: 1px solid darken($yellow, 10%);
+	color: black;
+	h3 {
+		color: $dark-red;
+	}
+	.line1 {
+		background-color: $red;
+	}
+	.line2 {
+		background-color: $dark-red;
+	}
+}
 
-// h4	{
-// 	background-color: $light-orange;
-// 	box-shadow: 0 0px 2px 1px $orange;
-// 	border: 1px solid darken($orange, 10%);
-// 	h3 {
-// 		color: $dark-orange;
-// 	}
-// 	.line1 {
-// 		background-color: $orange;
-// 	}
-// 	.line2 {
-// 		background-color: $dark-orange;
-// 	}
-// }
+h4	{
+	background-color: $light-orange;
+	box-shadow: 0 0px 2px 1px $orange;
+	border: 1px solid darken($orange, 10%);
+	h3 {
+		color: $dark-orange;
+	}
+	.line1 {
+		background-color: $orange;
+	}
+	.line2 {
+		background-color: $dark-orange;
+	}
+}
 
-// h5	{
-// 	background-color: $light-red;
-// 	box-shadow: 0 0px 2px 1px $light-red;
-// 	border: 1px solid darken($light-red, 10%);
-// 	h3 {
-// 		color: $dark-red;
-// 	}
-// 	.line1 {
-// 		background-color: $red;
-// 	}
-// 	.line2 {
-// 		background-color: $dark-red;
-// 	}
-// }
+h5	{
+	background-color: $light-red;
+	box-shadow: 0 0px 2px 1px $light-red;
+	border: 1px solid darken($light-red, 10%);
+	h3 {
+		color: $dark-red;
+	}
+	.line1 {
+		background-color: $red;
+	}
+	.line2 {
+		background-color: $dark-red;
+	}
+}
 
-// h6	{
-// 	background-color: $dark-gray;
-// 	box-shadow: 0 0px 1px 1px $dark-gray;
-// 	border: 1px solid darken($dark-gray, 10%);
-// 	color: white;
-// 	h3 {
-// 		color: $dark-red;
-// 	}
-// 	.line1 {
-// 		background-color: $red;
-// 	}
-// 	.line2 {
-// 		background-color: $dark-red;
-// 	}
-// }
+h6	{
+	background-color: $dark-gray;
+	box-shadow: 0 0px 1px 1px $dark-gray;
+	border: 1px solid darken($dark-gray, 10%);
+	color: white;
+	h3 {
+		color: $dark-red;
+	}
+	.line1 {
+		background-color: $red;
+	}
+	.line2 {
+		background-color: $dark-red;
+	}
+}
 
 a {
 	color: $link;
@@ -420,4 +420,19 @@ kbd {
 .site-nav {
 	// position: fixed; /* Set the navbar to fixed position */
 	// top: 0; /* Position the navbar at the top of the page */
+}
+
+.scripture {
+	margin: 0px auto;
+	color: ghostwhite;
+	padding: 15px;
+	font-style: normal;
+	box-shadow: 0px 0px 5px 1px black;
+	max-width: 900px;
+	border-radius: 15px 50px;
+	background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+	background-color: #00b8eb;
+	background-blend-mode: multiply;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
