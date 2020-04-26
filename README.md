@@ -1,6 +1,10 @@
 # Move screenshots to the 2020 folder
 `mv -v ~/Pictures/* ~/projects/bookofmormon/images/posts/2020`
 
+# Web Fonts
+https://www.w3schools.com/howto/howto_google_fonts.asp
+(just add rel link to head, and "try it" to see which css to add)
+
 # Colors
 
 h1 $light-blue;
