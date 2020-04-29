@@ -189,8 +189,6 @@ The Millennium will not be a perfect state, though it will be a higher glory. Th
 
 ## Additional Reading
 
-https://www.churchofjesuschrist.org/study/new-era/2014/06/to-the-point/who-will-be-on-the-earth-during-the-millennium-and-what-will-they-be-doing?lang=eng
-
-https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-45-the-millennium?lang=eng
-
-https://www.churchofjesuschrist.org/study/manual/gospel-topics/millennium?lang=eng
+[https://www.churchofjesuschrist.org/study/new-era/2014/06/to-the-point/who-will-be-on-the-earth-during-the-millennium-and-what-will-they-be-doing?lang=eng](https://www.churchofjesuschrist.org/study/new-era/2014/06/to-the-point/who-will-be-on-the-earth-during-the-millennium-and-what-will-they-be-doing?lang=eng)
+[https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-45-the-millennium?lang=eng](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-45-the-millennium?lang=eng)
+[https://www.churchofjesuschrist.org/study/manual/gospel-topics/millennium?lang=eng](https://www.churchofjesuschrist.org/study/manual/gospel-topics/millennium?lang=eng)
