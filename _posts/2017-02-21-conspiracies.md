@@ -2,16 +2,14 @@
 layout: post
 title: "Conspiracies"
 date: 2017-02-21 16:11:43 -0700
-tags: 'bookofmormon luciferiandoctrine'
+tags: 'bookofmormon luciferiandoctrine secretcombinations'
 published: true
 description: 'The Book of Mormon teaches that conspiracies are real, massive, deliberate, and dangerous.'
 post_author: the_awakening
 comments: true
 ---
 
-The Book of Mormon teaches that conspiracies are real and are a legitimate threat to freedom.
-
-# Do you know why the Nephite nation was destroyed?
+# The Nephite nation was destroyed due to conspiracy.
 
 > 19 For the Lord worketh not in **secret combinations**, neither doth he will that man should shed blood, but in all things hath forbidden it, from the beginning of man.
 > 
@@ -39,7 +37,7 @@ There is a dangerous tendency to dismiss any organized conspiracy through abstra
 
 While Satan is the head of his church, many don't realize that he has set up earthly bureaucracies and taken control of armies.
 
-### Everyone is a part of these systems ("in the world") whether aware of it or not. <br>Until seen for what they are, one risks being agents of those systems ("of the world")
+<div class="b cb5">Everyone is a part of these systems ("in the world") whether aware of it or not. <br>Until seen for what they are, one risks being agents of those systems ("of the world")</div>
 
 
 ---
@@ -50,7 +48,7 @@ These secret combinations were upheld through **specific** actions / oaths of mo
 
 Though this may be extremely difficult to understand for some, this is EXACTLY what the American Gentiles were doing when they voted Trump on election day.
 
-## We voted against the "false song of globalism". We voted against the New World Order. We voted against the Secret Combination that seeks the overthrow of all world democracies. The fight continues at the state and county level as individuals are learning to discern the honest from the deceitful.
+<div class="block green">We voted against the "false song of globalism". We voted against the New World Order. We voted against the Secret Combination that seeks the overthrow of all world democracies. The fight continues at the state and county level as individuals are learning to discern the honest from the deceitful.</div>
 
 Can you imagine posting this on your social media account? I think it's very telling how there's a palpable hostility against those who voted Trump and a fear to express conservative views.
 
@@ -58,17 +56,21 @@ It continues to be common for Mormons to dismiss any claim of conspiracy as simp
 
 Don't think you're open to the reality of conspiracies now that Trump has been elected. You can't say you suddenly have the vision to see conspiracies when for the past five or ten years you've denied their existence or simply ignored the possibility. You may think you're justified because of what the media has told you.
 
-### Not realizing *how bad things were* before 2016, it's hard to understand why most American counties chose how they did November 8th, 2016.
+<div class="block orange">Not realizing *how bad things were* before 2016, it's hard to understand why most American counties chose how they did November 8th, 2016.</div>
 
 Just search images for `2016 election results counties`.
 
 ---
 
-# Why are secret combinations dismissed as conspiracy theories when the Book of Mormon explicitly warns us us about them?
+# Authority Conflation
+
+<div class="b cb1">Why are secret combinations dismissed as conspiracy theories when the Book of Mormon explicitly warns us us about them?</div>
 
 Perhaps it stems from the notion that obedience is the [first law of heaven][1]. Because obedience to God's law and to his ordained authorities on the earth is valued, I think there is a tendency among some to project this reverence for authority on to *worldy authorities*. Although we obey the law of the land, that doesn't mean we necessarily trust any worldly institution that bears worldly authority - - - *\*cough\* big pharma* *\*cough\* career politicians* *\*cough\* etc...* - - - to always do things in our best interests and to always tell us the truth.
 
-#### There is great risk in discovering this too late.
+<div class="b cb3">Conflating worldly and heavenly authority obscures one's vision on what people with power are capable of.</div>
+
+There is great risk in discovering this too late.
 
 For one could put good for evil and evil for good by thinking the good guys are the bad guys and vice versa.
 
@@ -119,9 +121,7 @@ Don't buy into the notions..
 
 These are, honestly, a bit naive. Corruption seeks money, power and evasion of consequence at *any* cost.
 
-##### The Nephite nation was destroyed by secret combinations - conspiracies.
-
-# Why do you think the mainstream media is so quick to apply the conspiracy theory label?
+Why do you think the mainstream media is so quick to apply the conspiracy theory label?
 
 Psychological inoculation against truth. And that is the truth.
 

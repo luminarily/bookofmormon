@@ -2,7 +2,7 @@
 layout: post
 title: "The Coming Millennium"
 date: 2020-04-26 08:00:00 -0700
-tags: ''
+tags: 'bookofmormon doctrineandcovenants millennium'
 published: true
 description: 'We are entering a terrestrial world in the Millennium.'
 post_author: the_awakening
@@ -11,8 +11,8 @@ comments: true
 
 # The Millennium is a terrestrial state.
 
-<div class="block light-green">
-"When our Savior comes, the earth will be changed to a terrestrial condition ... this condition will last until after the close of the millennium..."
+<div class="b cb2">
+	"When our Savior comes, the earth will be changed to a terrestrial condition ... this condition will last until after the close of the millennium..."
 </div>
 
 ```
@@ -29,7 +29,7 @@ The Millennium is the "thousand years of peace" that will come due to Christ and
 
 Understanding the conditions of the Millennium can help us make sense of what is taking place now.
 
-# There is a law given to every kingdom.
+## Terrestrial law is a moral law.
 
 > 36 All kingdoms have a law given;
 >
@@ -43,13 +43,13 @@ Understanding the conditions of the Millennium can help us make sense of what is
 
 It is important to note, that those that can inhabit a certain kingdom are those that are willing to abide by either the law of that kingdom *or the law of a higher*. We also know beings can travel to lesser kingdoms, but one cannot travel to a higher kingdom unless their soul (body & spirit) are fit for the law of that kingdom.
 
-## Those who wish to abide a higher law almost always have to abide a lesser kingdom for a time.
+It would seem common that those who wish to abide a higher law almost always have to abide a lesser kingdom for a time.
 
-This should come as no surprise. Even Christ had to. Everyone who chose to come to earth has to.
+This should come as no surprise as even Christ did.
 
-As this Telestial world shakes off the chains of the devil and begins to enter the Terrestrial world, without understanding the Terrestrial state, members of the Church may be confused as they are expecting a Celestial state.
-
-# Terrestrial law is a moral law. <br> One need only be good.
+<div class="b cb3">
+	It may be confusing, if one is expecting the conditions of a celestial world, as this telestial world shakes off the chains of the devil and begins to enter a terrestrial world.
+</div>
 
 Following Christ, getting baptized, accepting Christ as your Savior, at not required for the Terrestrial state.
 
@@ -76,10 +76,12 @@ Following Christ, getting baptized, accepting Christ as your Savior, at not requ
 
 We can infer that the law of the Millennium will be, basically, the Ten Commandments. Be honorable. Be good. Maybe one doesn't "follow" Jesus, maybe one isn't baptized persay, maybe one doesn't even believe in Jesus. But, they are a good person nonetheless. They don't lie, they don't steal, they don't kill, etc...
 
-<div class="block orange">
+<div class="b cb2">
 	Progress in lower kingdoms should not be discounted, for progress is progress.
-	If a telestial being chooses to abide a terrestrial law, is that not a good thing?*
+	If a telestial being chooses to abide a terrestrial law, is that not a good thing?
 </div>
+
+## Terrestrial worlds are inhabited by terrestrial beings.
 
 It makes logical sense that in order for a terrestrial world to be considered terrestrial, it may only be inhabited by terrestrial beings.
 
@@ -87,13 +89,19 @@ This just makes sense to me and is related to the doctrine that no unclean thing
 
 In other words, the Millennium will comprise people of all kinds of nationalities and faiths but they will all have something in common: they are *moral*.
 
-Do not expect nation states to end. Do not expect politics to end entirely. Do not expect everyone to suddenly accept Christ as their Savior. We are going from telestial (our current state) to terrestrial, not terrestrial to celestial.
+I would not expect nation states to end.
 
-So do not be discouraged! The world is waking up and progress is being made! Line upon line, precept upon precept - all of creation is preparing to meet its Creator, and there are millions who need time to prepare where they are at in their journey, such is the mercy of our Lord.	
+Do not expect everyone to suddenly accept Christ as their Savior. We are going from telestial (our current state) to terrestrial.
+
+<div class="b cb2">
+	The earth must shed that which makes it telestial if it is to attain terrestrial glory.
+</div>
 
 ---
 
-# In *some* respects, the Millennium will *fade-in*.
+# From Exaltation to Exaltation
+
+The world is waking up and progress is being made! Line upon line, precept upon precept - all of creation is preparing to meet its Creator, and there are millions who need time to prepare where they are at in their journey, such is the mercy of our Lord!
 
 As the way of the Lord is prepared, people will wake up to truth and technologies will be released. This is happening right now.
 
@@ -143,7 +151,7 @@ There will be
 - Mixed religion will continue.
 - Governments will still exist.
 
-# During the Millennium, Satan will be bound by righteousness.
+## During the Millennium, Satan will be bound by righteousness.
 
 Satan will not be bound by some divine force. The people will be awakened and elightening to a point where Satan will no longer have power over their hearts.
 
@@ -153,11 +161,11 @@ Satan will not be bound by some divine force. The people will be awakened and el
 
 Also see [D&C 45:55](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p55#p55)
 
-<div class="block light-green">
+<div class="b cb2">
 	How can the people be righteous *globally* save it be that they have woken up? How can the people choose good unless they have learned the evil from the good? How can righteousness prevail, even in high places, save it be that the voters are awake and aware and the politicians are also aware of the consequences of sin and conspiracy? Have you heard of the #GreatAwakening? Methinks we are, of a truth, barreling toward the Millennium, for the people are awakening from their slumber.
 </div>
 
-Unfortunately, we are yet a ways off. For, the consequence of being asleep for so long is that we also must go through a tribulation before Christ can come.
+Unfortunately, we are yet a ways off. The consequence of being asleep for so long is that we also must go through a tribulation before Christ can come.
 
 <!-- # Agency will still exist during the Millennium
 

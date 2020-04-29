@@ -2,7 +2,7 @@
 layout: post
 title: "Insurrection of the King-Men"
 date: 2017-03-09 04:50:00 -0700
-tags: 'bookofmormon'
+tags: 'bookofmormon secretcombinations'
 published: true
 description: 'King-men from the Book of Mormon did not accept the results of their election.'
 post_author: the_awakening
@@ -10,13 +10,13 @@ comments: true
 image: /images/posts/2017/antifa_large.jpg
 ---
 
-#### "King-Men" did not accept election results.
+# "King-Men" did not accept election results. Antifa?
 
 Antifa and the shadow government find a parallel in this by staging their insurrection against the will of the people and the result of the electoral system.
 
 <figure>
   <img style="margin: auto; display: block;" src="{{site.baseurl}}/images/posts/2017/antifa.jpg" alt="antifa">
-  <figcaption style="text-align: center;">"Hello there. We are Antifa. We like to hide our faces and beat innocent people up. We are fascists."<br><a href="http://imgur.com/ipwedDB?">Source 1</a> | <a href="https://www.reddit.com/r/The_Donald/comments/5xke29/hello_there_we_are_antifa_we_like_to_hide_our/">Source 2</a></figcaption>
+  <figcaption style="text-align: center;">Antifa is often characterized by hidden faces and violent behavior.<br><a href="http://imgur.com/ipwedDB?">Source 1</a> | <a href="https://www.reddit.com/r/The_Donald/comments/5xke29/hello_there_we_are_antifa_we_like_to_hide_our/">Source 2</a></figcaption>
 </figure>
 
 The shadow government are rogue elements within and without the government who are [seeking to overthrow][17] the duly, democratically-elected President.
@@ -39,7 +39,7 @@ Keep reading...
 > 
 > [Alma 51:6-7][8] (Book of Mormon)
 
-## The *freemen* won the dispute by the democratic vote of the people.
+## The Freemen won the dispute by the vote of the people.
 
 So, the king-men we obliged to comply with the interests of the country; however, we will see that this did not last and they became a danger to the country.
 
@@ -97,9 +97,9 @@ Nevertheless, Moroni was able to be successful - though the Nephites suffered gr
 
 ---
 
-Because mainstream media does not fairly report on violence *against* Trump supporters, the narrative is that Trump supporters are the violent ones.
+# Overton Window
 
-#### This is due to the "Overton Window" principle - where the media controls what gets the most coverage, thus controlling what the public thinks is a problem.
+Because mainstream media does not fairly report on violence *against* Trump supporters, the narrative is that Trump supporters are the violent ones.
 
 For those who have become aware of this reality, it's very difficult to read things on page 6 of some local newspaper of an event that should be getting national coverage. Thanks to the Internet, these stories have been able to get massive coverage as the "new media" has been growing in popularity.
 
@@ -109,14 +109,14 @@ I have been criticized for sharing instances of violence against Trump supporter
 
 It's important to know what's *really* happening in world, otherwise you open yourself up to being deceived not knowing which side is by and large engendering and inciting violence and social unrest.
 
-	"The hardest part of explaining propaganda to people is getting them to accept they've been duped."
-	- Justin King
+```
+"The hardest part of explaining propaganda to people is getting them to accept they've been duped."
+```
+- Justin King
 
 Why does this concept encounter such resistance? Why do people immediately put up their defenses when they are told to acknowledge correlation? Why do they automatically say "correlation does not prove causation," as if this statement proves there is no causation-connection? What do they mean?
 
-But, I digress.
-
-Now what? We pay the price of dissension and lawlessness.
+In any case, we pay the price of dissension and lawlessness.
 
 Due to the king-men, the Lamanite army was [able to take many Nephite cities][15]. Many lives were lost as a bloody trail followed the Lamanite advance. However, Moroni's decisive courage to face [Gadianton's followers][16] directly enabled the Nephites to stabilize the situation and regain control.
 

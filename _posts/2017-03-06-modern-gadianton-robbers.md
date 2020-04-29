@@ -2,13 +2,15 @@
 layout: post
 title: "Robbers"
 date: 2017-03-06 04:48:00 -0700
-tags: 'bookofmormon luciferiandoctrine'
+tags: 'bookofmormon luciferiandoctrine secretcombinations'
 published: true
 description: 'The Nephites fell because the corruption of the Gadianton robbers was not completely eradicated from their midst.'
 post_author: the_awakening
 comments: true
 image: /images/posts/The_Fumigator_Awakens.png
 ---
+
+# Gadianton's plans destroyed the Nephite nation
 
 The Robbers of Gadianton were a radical group in the Book of Mormon who gained power through murder and who robbed from the working class to survive. The Nephites fell because the corruption of the Gadianton robbers was not completely eradicated from their midst.
 
@@ -82,9 +84,10 @@ Hundreds of years after Gadianton, his dark methods resurfaced.
 
 Thankfully, we have a chance to face these Gadianton robbers HEAD-ON and END THEIR TRAFFICKING RINGS. Donald Trump has gone on the offensive, and the corruption at the head of our government might actually be finally revealed to the mainstream for what it truly is.
 
-	This election will determine whether we are a free nation or whether we have only the illusion of democracy, but are in fact controlled by a small handful of global special interests rigging the system, and our system is rigged. This is reality, you know it, they know it, I know it, and pretty much the whole world knows it.
-
-	- Donald Trump
+```
+This election will determine whether we are a free nation or whether we have only the illusion of democracy, but are in fact controlled by a small handful of global special interests rigging the system, and our system is rigged. This is reality, you know it, they know it, I know it, and pretty much the whole world knows it.
+```
+- Donald Trump
 
 The battle has only begun. This movement is beginning to go on the offensive. We have a chance to purge the evil from our midst and create a prosperous future.
 

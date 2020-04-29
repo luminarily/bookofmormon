@@ -3,7 +3,35 @@ layout: page_with_outer_heading
 title: Posts
 icon: icon-cabinet
 ---
-
+<style type="text/css">
+	body {
+	    counter-reset: "";
+	}
+	// h1 {
+	//     counter-reset: "";
+	// }
+	h1:before {
+	    content: "";
+	    counter-increment: "";
+	    counter-reset: "";
+	}
+	h2:before {
+	    content: "";
+	    counter-increment: ""; }
+    h3:before {
+        content: "";
+        counter-increment: ""; }
+    h4:before {
+        content: "";
+        counter-increment: ""; }
+    h5:before {
+        content: "";
+        counter-increment: ""; }
+    h6:before {
+        content: "";
+        counter-increment: ""; }
+	}
+</style>
 <div class="archives">
 
   {% for post in site.posts %}

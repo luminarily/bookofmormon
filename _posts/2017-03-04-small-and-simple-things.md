@@ -2,7 +2,7 @@
 layout: post
 title: "Small & Simple Things"
 date: 2017-02-28 00:00:01 -0700
-tags: 'politics'
+tags: 'politics psychology'
 published: true
 description: 'Small & simple things bring great things and confound high ones.'
 post_author: the_awakening
@@ -10,9 +10,9 @@ comments: true
 image: /images/posts/what_happened_happened_trump_wm.png
 ---
 
-## Small & simple things.
+# By Small & Simple Things
 
-I am writing this post because reducing Trump to a simpleton description (as if that's a bad thing) is not an argument and we'd better find better criticisms.
+I am writing this post because reducing Trump to a simpleton description (as if that's a bad thing) is not an argument and, if you're going to criticize Trump, find a better reason.
 
 * "Is Donald Trump a simpleton?" - vis-a-vis [AARP Online Community][2]
 * "Trump is a complete simpleton." - [libertybill on Tumblr][3]
@@ -24,7 +24,9 @@ I am writing this post because reducing Trump to a simpleton description (as if 
 
 **Do you ever find yourself in surreal awe that Donald Trump is the President?** Considering the forces that were working against him, I often find myself thinking that if Trump had changed anything about his character or technique or delivery, he would not have been able to win.
 
-## There was an extremely narrow 'job' opening for a "people's president", the requirements of which Trump fit immaculately.
+<div class="b cb2">
+	There was an extremely narrow 'job' opening for a "people's president", the requirements of which Trump fit immaculately.
+</div>
 
 Trump's simple, sensationalist nature was contagious and spread like wildfire. His *quirks, misspellings, and yes, even his mistakes, filled the news cycles*. Even his vast monetary resources allowed him to remain unfazed by bribes and threats (which surely came, either direct or implied).
 
@@ -32,9 +34,7 @@ His brash, sincere and yet strong, courageous approach allowed him to weather th
 
 People criticize his approach, but honestly, who are we to critique a man who pulled off the *impossible*? **Is there anyone else in America that could have and *would have* done what Trump did?** I don't think it's likely there is anyone.
 
-Therefore...
-
-### So what if Donald Trump speaks like a simpleton? The scriptures make no case against such; in fact they praise simplicity and plainness.
+The scriptures make no case against such those who speak simply.
 
 > 23 And now, he imparteth his word by angels unto men, yea, not only men but women also. Now this is not all; **little children do have words given unto them many times, which confound the wise and the learned.**
 > 
@@ -51,15 +51,13 @@ Trump had almost the entire establishment against him:
 * U.S. government? >> Against Trump.
 * Hollywood? >> Against Trump.
 
-# How is it possible that a man overcame earth-crushing opposition and ascended to become the most powerful man in the world?
-
 > 6 Now ye may suppose that this is foolishness in me; but behold I say unto you, that by **small and simple things are great things brought to pass**; and **small means in many instances doth confound the wise.**
 > 
 > 7 And the Lord God doth work by means to bring about his great and eternal purposes; and **by very small means** *the Lord doth confound the wise and bringeth about the salvation of many souls.*
 > 
 > [Alma 37:6-7][1] (Book of Mormon)
 
-#### The Establishment - with UNLIMITED funds, power, resources, and corrupt dealings - were ultimately **confounded** by Trump, the simpleton.<br><br>They could not, no not even with all their complex machinations, systems of control and thought-curation through media propaganda -- stop ONE MAN from toppling their entire reality.
+The Establishment - with UNLIMITED funds, power, resources, and corrupt dealings - were ultimately **confounded** by Trump, the simpleton.<br><br>They could not, no not even with all their complex machinations, systems of control and thought-curation through media propaganda -- stop ONE MAN from toppling their entire reality.
 
 Who would have thought Trump's tactic of going directly to the people and telling them to put their country first would be so effective? He would use widely-comprehensible phrases such as "we don't *win* anymore."
 
@@ -71,17 +69,11 @@ If instead he said "there's a conspiracy that is trying to turn America into a c
 
 How is it that simple things confound the wise? How can a simple tool destoy a complex and terrible machine?
 
-In Bensalem, Pennsylvania on October 28th, Mike Pence proclaimed to a crowd,
+In Bensalem, Pennsylvania on October 28th, Mike Pence said..
 
 > **"Truth is a force of nature. Truth has a way of making its way out."**
 
-Think of the effort that goes into building a skyscraper. The requirements of complex, interconnected systems is staggering. From Complex architecture, foundation-building, webs of electronic transmissions, systems of control and protection against power outages and surges, to plumbing throughout with high water pressures - building are complex indeed.
-
-### And yet, **all it takes is a single spark** the size of a single type-written letter, in the right spot, to start a fire that can dismantle the entire building.
-
-Small and simple things indeed.
-
-## **Substance will always trump fantasy.**
+Substance will always trump fantasy. Trump focused on speaking to the forgotten American with simple truths about our government.
 
 All the establishment has power over is their narrative and illusion. As long as the people are kept in darkness to the substance of truth, they are controllable. Once the people wake up to the illusion, the vain imagination collapses and eventually the cunning subverters will be revealed.
 
@@ -103,7 +95,7 @@ Simple and plain things are often true. Because they are true, they have an unbr
 > 
 > [Matthew 7:24-27][9] (Bible)
 
-#### Those who build their lives around falsehood and lies eventually meet the day when the fiery simplicity of truth vaporizes their illusory foundation - a day when their vain ambition meets simple, unrelenting reality.
+Those who build their lives around falsehood and lies eventually meet the day when the fiery simplicity of truth vaporizes their illusory foundation - a day when their vain ambition meets simple, unrelenting reality.
 
 [1]: https://www.lds.org/scriptures/bofm/alma/37.6-7?lang=eng#5
 [2]: http://community.aarp.org/t5/Politics-Current-Events/IS-DONALD-TRUMP-A-SIMPLETON/td-p/1746105

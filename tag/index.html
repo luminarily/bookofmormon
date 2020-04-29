@@ -3,7 +3,23 @@ layout: page_with_outer_heading
 title: Tags
 icon: icon-cabinet
 ---
-
+<style type="text/css">
+	body {
+	    counter-reset: "";
+	}
+	// h1 {
+	//     counter-reset: "";
+	// }
+	h1:before {
+	    content: "";
+	    counter-increment: "";
+	    counter-reset: "";
+	}
+	h2:before {
+	    content: "";
+	    counter-increment: "";
+	}
+</style>
 <div class="module">
 	<header class="block-module-header">
 		<!-- <h6>
