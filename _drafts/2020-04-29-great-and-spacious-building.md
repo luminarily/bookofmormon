@@ -15,7 +15,7 @@ In short, Lehi, a prophet, saw a tree with precious fruit in a dream. This tree 
 
 Do read [1st Nephi Chapter 8](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng) for the full vision.
 
-> 26 And I also cast my eyes round about, and beheld, on the other side of the river of water, a great and spacious building; and it stood as it were in the cair, high above the earth.
+> 26 And I also cast my eyes round about, and beheld, on the other side of the river of water, a great and spacious building; and it stood as it were in the air, high above the earth.
 > 
 > 27 And it was filled with people, both old and young, both male and female; and their manner of dress was exceedingly fine; and they were in the attitude of mocking and pointing their fingers towards those who had come at and were partaking of the fruit.
 >
@@ -24,7 +24,15 @@ Do read [1st Nephi Chapter 8](https://www.churchofjesuschrist.org/study/scriptur
 
 # Who inhabits the Great & Spacious Building?
 
-## *Not* All Non-Believers
+Identifying who *really* inhabits the great and spacious building is important because it can help one identify the beast system (and defend themselves and their family against it.)
+
+I won't provide a comprehensive list of every player and related evidence, there is enough available.
+
+## Not Who You Might Think
+
+One might think anyone who falls into sin might as well be entering the building. This doesn't hold weight. The building, being the pride of the world, gives one an elevated status above others. Does the drug addict down the street have an elevated status? They may be traveling down a strange and forbidden path, but I wouldn't classify them as being elevated in the building. The building gives those in it wordly authority and power. [Sound familiar](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/13.1-2?lang=eng#1)?
+
+Indeed, they are elevated as such that they have power to cause shame, or jealousy, in the hearts of the believers.
 
 > 28 And after they had tasted of the fruit they were ashamed, because of those that were scoffing at them; and they fell away into forbidden paths and were lost.
 > 
@@ -51,16 +59,45 @@ This post will focus on the latter interpretation. In this sense, the pride of t
 
 ## Hollywood
 
-Movie stars. Producers. Musicians. Celebrities. Not all of them, obviously!
+* Spacey
+* Weinstein
+* Epstein
+* Allison Mack & NXIVM
+* Patton Oswalt
+* Rachel Chandler
+* Marina Abramovic
+* Gal Gadot, et al. (singing 'there is no heaven ... no hell' at a time when we need God now more than ever)
+> 22 And behold, others he flattereth away, and telleth them there is no hell; and he saith unto them: I am no devil, for there is none—and thus he whispereth in their ears, until he grasps them with his awful chains, from whence there is no deliverance.
+> 
+> [2 Nephi 28](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28.22?lang=eng#p22)
 
-But, you can often tell which ones put out content that is degenerate in nature and not wholesome & uplifting.
+These are just the ones that come to mind. What about the odd New World Order symbolism of Katy Perry's videos? Or Lady Gaga's close connections to Marina Abramovic? Or what about Gal Gadot et. al. coming out and singing "imagine there's no heaven ... no hell" during a time of the COVID-19 pandemic.
 
-(katy perry, kevin spacey, patton oswalt, etc...)
+Hollywood bloviates about how we not build walls, while they are surrounded by guns, body guards safe within their personal mansion walls.
 
-## The Cabal
-## The Uber Rich
-## The Influential
-# The Great & Spacious Building Will Fall
+The hypocrisy is real and I could go on an on about this. I am assuming some level of awareness by my audience about Hollywod. It should be quite easy to connect the dots.
+
+Hollywood is, without a doubt, part of the Great and Spacious Building.
+
+## Politicians
+
+The Cabal is a general term to describe the first beast. Its native language consists of threats and intimidation. It operates in darkness, subversion, consumption and code.
+
+The Cabal is also known as the deep state, shadow government or permanent government. It has ties to some of the most vile groups on the planet.
+
+Think Federal Reserve, Fast & Furious, Iran Nuclear Deal, CIA, Operation Mockingbird, MK-Ultra, etc...
+
+## CEOs
+
+CEOs, mainly. But also, "philanthropists"
+
+Have you noticed the thousands of CEO resignations in the past couple of years? There is no coincidence when there is that much money and power involved.
+
+## Puppet Masters
+
+Family dynasties
+
+# What will the fall of the Great & Spacious Building look like?
 ## Hypothesis: We will help pull down the Great & Spacious Building
 ## Great Will Be The Fall
 # What would a fall look like?
