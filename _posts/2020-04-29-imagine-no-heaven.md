@@ -59,8 +59,10 @@ Sharing all the world.
 > [2 Nephi 28.7-8](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28.7-8?lang=eng#6)
 
 <div class="b cb3">
+	No religion?
+	<br>
 	Nothing to die for?
-	<br><br>
+	<br>
 	Did Jesus die for nothing?
 </div>
 
