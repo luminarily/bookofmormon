@@ -28,11 +28,11 @@ $block8: #b8ff70;
 
 $gray: gray;
 $h1: $c1;
-$h2: $c1;
-$h3: $c1;
-$h4: $c1;
-$h5: $c1;
-$h6: $c1;
+$h2: $c2;
+$h3: $c3;
+$h4: $c4;
+$h5: $c5;
+$h6: $c6;
 
 .post { border: 1px solid white; }
 .post-body{border-bottom: 1px solid gray;}
@@ -487,12 +487,21 @@ code, kbd, pre, samp {
 	// border: 1px solid darken(black 10%);
 }
 
-h1 { font-size: 1.999em; }
+// different header sizes
+// h1 { font-size: 1.999em; }
+// h2 { font-size: 1.5em; }
+// h3 { font-size: 1.1em; }
+// h4 { font-size: .9em; }
+// h5 { font-size: .8em; }
+// h6 { font-size: .7em; }
+
+// same header sizes
+h1 { font-size: 1.5em; }
 h2 { font-size: 1.5em; }
-h3 { font-size: 1.1em; }
-h4 { font-size: .9em; }
-h5 { font-size: .8em; }
-h6 { font-size: .7em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.5em; }
+h5 { font-size: 1.5em; }
+h6 { font-size: 1.5em; }
 
 .cb0 { background-color: $c0 !important; box-shadow: 0 0px 2px 1px $c0; border: 1px solid darken($c0, 10%); }
 .cb1 { background-color: $c1 !important; box-shadow: 0 0px 2px 1px $c1; border: 1px solid darken($c1, 10%); }
