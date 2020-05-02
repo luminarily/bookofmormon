@@ -2,7 +2,7 @@
 layout: post
 title: "The Great and Spacious Building"
 date: 2020-04-29 00:00:00 -0700
-tags: 'bookofmormon celebrities'
+tags: 'bookofmormon celebrities hypothesis'
 published: true
 description: 'The great and spacious building will fall and great will be the fall thereof.'
 post_author: the_awakening
@@ -13,7 +13,7 @@ comments: true
 
 In short, Lehi, a prophet, saw a tree with precious fruit in a dream. This tree was the love of God and he saw people trying to obtain the fruit of the tree.
 
-Do read [1st Nephi Chapter 8](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng) for the full vision.
+See [1st Nephi Chapter 8](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng) for the full vision.
 
 > 26 And I also cast my eyes round about, and beheld, on the other side of the river of water, a great and spacious building; and it stood as it were in the air, high above the earth.
 > 
@@ -21,16 +21,15 @@ Do read [1st Nephi Chapter 8](https://www.churchofjesuschrist.org/study/scriptur
 >
 > [1st Nephi 8:26-27](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8.26-28?lang=eng&clang=eng#p26)
 
-
 # Who inhabits the Great & Spacious Building?
 
 Identifying who *really* inhabits the great and spacious building is important because it can help one identify the beast system (and defend themselves and their family against it.)
 
 I won't provide a comprehensive list of every player and related evidence, there is enough available.
 
-## Not Who You Might Think
+## Probably Not the "Average Joe"
 
-One might think anyone who falls into sin might as well be entering the building. This doesn't hold weight. The building, being the pride of the world, gives one an elevated status above others. Does the drug addict down the street have an elevated status? They may be traveling down a strange and forbidden path, but I wouldn't classify them as being elevated in the building. The building gives those in it wordly authority and power. [Sound familiar](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/13.1-2?lang=eng#1)?
+One might think anyone who falls into sin might as well be entering the building. I don't think this is the case. The building, being the pride of the world, gives one an elevated status above others. Does the drug addict down the street have an elevated status? They may be traveling down a strange and forbidden path, but I wouldn't classify them as being elevated in the building. The building gives those in it wordly authority and power. [Sound familiar](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/13.1-2?lang=eng#1)?
 
 Indeed, they are elevated as such that they have power to cause shame, or jealousy, in the hearts of the believers.
 

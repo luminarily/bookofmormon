@@ -2,7 +2,7 @@
 layout: post
 title: "The Coming Millennium"
 date: 2020-04-26 08:00:00 -0700
-tags: 'bookofmormon doctrineandcovenants millennium'
+tags: ' doctrineandcovenants millennium'
 published: true
 description: 'We are entering a terrestrial world in the Millennium.'
 post_author: the_awakening

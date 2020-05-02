@@ -503,54 +503,55 @@ h6 { font-size: .7em; }
 .cb6 { background-color: $c6 !important; box-shadow: 0 0px 2px 1px $c6; border: 1px solid darken($c6, 10%); }
 .cb7 { background-color: $c7 !important; box-shadow: 0 0px 2px 1px $c7; border: 1px solid darken($c7, 10%); }
 
-body {
-    counter-reset: h1counter;
-}
-h1 {counter-reset: h2counter;}
-h2 {counter-reset: h3counter;}
-h3 {counter-reset: h4counter;}
-h4 {counter-reset: h5counter;}
-h5 {counter-reset: h6counter;}
-h1:before {
-    content: counter(h1counter) "\0000a0-\0000a0";
-    counter-increment: h1counter;
-    counter-reset: h2counter;
-    counter-reset: h3counter;
-    counter-reset: h4counter;
-    counter-reset: h5counter;
-    counter-reset: h6counter;
-}
-h2:before {
-    content: counter(h1counter) "." counter(h2counter) "\0000a0-\0000a0";
-    counter-increment: h2counter;
-    counter-reset: h3counter;
-    counter-reset: h4counter;
-    counter-reset: h5counter;
-    counter-reset: h6counter;
-}
-h3:before {
-    content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) "\0000a0-\0000a0";
-    counter-increment: h3counter;
-    counter-reset: h4counter;
-    counter-reset: h5counter;
-    counter-reset: h6counter;
-}
-h4:before {
-    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "\0000a0-\0000a0";
-    counter-increment: h5counter;
-    counter-reset: h5counter;
-    counter-reset: h6counter;
-}
-h5:before {
-    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) "\0000a0-\0000a0";
-    counter-increment: h6counter;
-    counter-reset: h6counter;
-}
-h6:before {
-    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) "." counter(h7counter) "\0000a0-\0000a0";
-    counter-increment: h6counter;
-}
+// enable this section if you want the headers numbers
+// body {
+//     counter-reset: h1counter;
+// }
+// h1 {counter-reset: h2counter;}
+// h2 {counter-reset: h3counter;}
+// h3 {counter-reset: h4counter;}
+// h4 {counter-reset: h5counter;}
+// h5 {counter-reset: h6counter;}
+// h1:before {
+//     content: counter(h1counter) "\0000a0-\0000a0";
+//     counter-increment: h1counter;
+//     counter-reset: h2counter;
+//     counter-reset: h3counter;
+//     counter-reset: h4counter;
+//     counter-reset: h5counter;
+//     counter-reset: h6counter;
+// }
+// h2:before {
+//     content: counter(h1counter) "." counter(h2counter) "\0000a0-\0000a0";
+//     counter-increment: h2counter;
+//     counter-reset: h3counter;
+//     counter-reset: h4counter;
+//     counter-reset: h5counter;
+//     counter-reset: h6counter;
+// }
+// h3:before {
+//     content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) "\0000a0-\0000a0";
+//     counter-increment: h3counter;
+//     counter-reset: h4counter;
+//     counter-reset: h5counter;
+//     counter-reset: h6counter;
+// }
+// h4:before {
+//     content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "\0000a0-\0000a0";
+//     counter-increment: h5counter;
+//     counter-reset: h5counter;
+//     counter-reset: h6counter;
+// }
+// h5:before {
+//     content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) "\0000a0-\0000a0";
+//     counter-increment: h6counter;
+//     counter-reset: h6counter;
+// }
+// h6:before {
+//     content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) "." counter(h7counter) "\0000a0-\0000a0";
+//     counter-increment: h6counter;
+// }
 
-footer.site-footer {
-	border-radius: 40px;
-}
+// footer.site-footer {
+// 	border-radius: 40px;
+// }
