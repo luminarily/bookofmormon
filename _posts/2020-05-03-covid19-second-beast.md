@@ -53,6 +53,8 @@ Microsoft, Bill Gate's company recently submitted a patent with the number, wait
 
 Go to https://patentscope.wipo.int/search/en/search.jsf
 Search `WO2020060606`
+You should get to this page:
+https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020060606&_cid=P11-K9RVIA-73463-1
 
 ```
 A sensor communicatively coupled to or comprised in the device of the user may sense body activity of the user. ... if the body activity data satisfies one or more conditions set by the cryptocurrency system, and award cryptocurrency to the user whose body activity data is verified.
