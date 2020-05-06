@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Small & Simple Things"
+title: "Small & Simple Things: Trump"
 date: 2017-02-28 00:00:01 -0700
-tags: 'politics beastmodel1'
+tags: 'bookofmormon revelationbeastv1 politics trump'
 published: true
 description: 'Small & simple things bring great things and confound high ones.'
 post_author: the_awakening

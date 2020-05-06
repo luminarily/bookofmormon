@@ -2,7 +2,7 @@
 layout: post
 title: "Is Coronavirus the Second Beast?"
 date: 2020-05-01 11:57:00 -0700
-tags: 'beastmodel1'
+tags: 'bible revelationbeastv1'
 published: true
 description: 'Coronavirus as the second beast'
 post_author: the_awakening

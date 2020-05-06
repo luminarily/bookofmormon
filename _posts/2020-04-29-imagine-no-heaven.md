@@ -2,7 +2,7 @@
 layout: post
 title: "'Imagine there's no heaven'"
 date: 2020-05-01 11:57:00 -0700
-tags: 'celebrities greatandspacious beastmodel1'
+tags: 'celebrities greatandspacious revelationbeastv1'
 published: true
 description: 'Gal Gadot Et al.'
 post_author: the_awakening
@@ -11,7 +11,7 @@ comments: true
 
 In March of 2020, Gal Gadot and a bunch of celebrities sang the song "Imagine" by John Lennon.
 
-This post isn't about Gal Gadot - maybe she meant well. Despite the pleasing melody, the lyrics of this song are deceptive in my view.
+This post isn't about Gal Gadot - maybe she meant well? Despite the pleasing melody, the lyrics of this song are deceptive in my view.
 
 Read carefully...
 

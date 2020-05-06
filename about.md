@@ -42,4 +42,4 @@ This site is dedicated to amazing relevance of the Book of Mormon and Bible to o
 
 **DISCLAIMER** - *The views on this website do not necessarily reflect those of The Church of Jesus Christ of Latter-Day Saints. This website is in no way affiliated with the Church.*
 
-<p>This site was designed originally from a theme designed by <a href="https://twitter.com/chalatz" title="Christos Alatzas twitter page">Christos Alatzas</a> and is powered by <a href="http://www.jekyllrb.com" target="_blank">Jekyll.</a></p>
+<p>Site theme heavily modified, based on a theme by <a href="https://twitter.com/chalatz" title="Christos Alatzas twitter page">Christos Alatzas</a> and is powered by <a href="http://www.jekyllrb.com" target="_blank">Jekyll.</a></p>
