@@ -299,6 +299,8 @@ a {
 		}
 	}
 	.archives-month {
+		background-color: $c1;
+		color: black;
 		font-size: 1em;
 		text-align: left !important;
 		display: inline-block;
@@ -315,7 +317,7 @@ a {
 		font-weight: bold;
 		&:hover {
 			text-decoration: underline;
-			color: $c3;
+			color: $c6;
 		}
 	}
 
