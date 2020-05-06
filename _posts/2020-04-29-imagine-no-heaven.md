@@ -4,7 +4,7 @@ title: "'Imagine there's no heaven'"
 date: 2020-05-01 11:57:00 -0700
 tags: 'celebrities greatandspacious revelationbeastv1'
 published: true
-description: 'Gal Gadot Et al.'
+description: 'Celebrities singing Imagine - not exactly a balm in Gilead.'
 post_author: the_awakening
 comments: true
 ---

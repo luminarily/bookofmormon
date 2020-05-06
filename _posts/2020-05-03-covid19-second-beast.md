@@ -4,7 +4,7 @@ title: "Is Coronavirus the Second Beast?"
 date: 2020-05-01 11:57:00 -0700
 tags: 'bible revelationbeastv1'
 published: true
-description: 'Coronavirus as the second beast'
+description: 'Coronavirus could be the second beast of Revelation.'
 post_author: the_awakening
 comments: true
 ---

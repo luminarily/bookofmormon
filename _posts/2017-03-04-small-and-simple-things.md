@@ -4,7 +4,7 @@ title: "Small & Simple Things: Trump"
 date: 2017-02-28 00:00:01 -0700
 tags: 'bookofmormon revelationbeastv1 politics trump'
 published: true
-description: 'Small & simple things bring great things and confound high ones.'
+description: 'By small & simple things...'
 post_author: the_awakening
 comments: true
 image: /images/posts/what_happened_happened_trump_wm.png

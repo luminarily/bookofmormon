@@ -51,7 +51,7 @@ icon: icon-cabinet
     {% assign post_month = post.date | date: '%m' %}
     {% assign post_day = post.date | date: '%d' %}
     <div class="archives-info" style="padding: 0px;">
-      <h6 class="archives-month">{{post_year}}-{{post_month}}-{{post_day}} :: <a class="archives-post-title" href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a></h6>
+      <h6 style="margin-left: 20px;" class="archives-month">{{post_year}}-{{post_month}}-{{post_day}} :: <a class="archives-post-title" href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}<br><sub style="margin-left: 40px; opacity: .5;">{{ post.description }}</sub></a></h6>
       
     </div>
 

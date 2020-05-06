@@ -4,7 +4,7 @@ title: "Conspiracies"
 date: 2017-02-21 16:11:43 -0700
 tags: 'bookofmormon luciferiandoctrine secretcombinations'
 published: true
-description: 'The Book of Mormon teaches that conspiracies are real, massive, deliberate, and dangerous.'
+description: 'Secret conspiracies destroyed the Nephites.'
 post_author: the_awakening
 comments: true
 ---

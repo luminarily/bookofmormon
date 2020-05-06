@@ -4,7 +4,7 @@ title: "The Great and Spacious Building"
 date: 2020-05-05 00:00:00 -0700
 tags: 'revelationbeastv1 bookofmormon greatandspacious'
 published: true
-description: 'The great and spacious building will fall and great will be the fall thereof.'
+description: 'Who inhabits the Great and Spacious Building?'
 post_author: the_awakening
 comments: true
 ---
