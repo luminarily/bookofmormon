@@ -15,8 +15,8 @@ comments: true
 > 
 > [Ether 8:18](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8.18?lang=eng#17)
 
-The Lord views secret combinations wicked above all other things, but why?
-As I have studied the scriptures and observed what's happening in the world, I believe it's not only because secret combinations cause people to commit sin en masse, but also lead to genocide and the fall of nations.
+The Lord views certain secret combinations wicked above all other things, but why?
+As I have studied the scriptures and observed what's happening in the world, I believe it's not only because secret combinations cause people to commit sin en masse, but also lead to genocide and the fall of nations. The secret combinations which "they of old" engaged in were built on the 'law of mahan' - in short, hurt others to enrich the self.
 
 It can't be emphasized enough that the Nephite nation fell not because of the Lamanites, but because of an *internal* secret combination!! I wonder how many reading the Book of Mormon truly know this and understand the implications.
 
