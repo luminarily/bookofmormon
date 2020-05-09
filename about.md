@@ -6,7 +6,7 @@ permalink: /about/
 
 I've studied the Book of Mormon for much of my life. I wish to share what I've learned with anyone who will listen.
 
-I feel the Book of Mormon is largely underappreciated and often misunderstood. Of a truth, it testifies of Christ and the entire book is chock full of prophecy and spiritual nourishment. I've always had an interest in coding and web dev, so it made sense to share my spiritual beliefs in a medium with which I'm familiar.
+I feel the Book of Mormon is largely underappreciated and often misunderstood. Of a truth, it testifies of Christ and the entire book is chock-full of prophecy and spiritual nourishment. I've always had an interest in coding and web dev, so it made sense to share my spiritual beliefs in a medium with which I'm familiar.
 
 Anyone is welcome here - even if you have no interest in the Church, perhaps out of curiosity you will find the content here interesting if only as a religious study.
 
@@ -42,4 +42,4 @@ This site is dedicated to amazing relevance of the Book of Mormon and Bible to o
 
 **DISCLAIMER** - *The views on this website do not necessarily reflect those of The Church of Jesus Christ of Latter-Day Saints. This website is in no way affiliated with the Church.*
 
-<p>Site theme heavily modified, based on a theme by <a href="https://twitter.com/chalatz" title="Christos Alatzas twitter page">Christos Alatzas</a> and is powered by <a href="http://www.jekyllrb.com" target="_blank">Jekyll.</a></p>
+<p>Site based on a <a href="http://chalatz.github.io/yellowblue/">theme</a> by <a href="https://twitter.com/chalatz" title="Christos Alatzas twitter page">Christos Alatzas</a> and is powered by <a href="http://www.jekyllrb.com" target="_blank">Jekyll.</a></p>

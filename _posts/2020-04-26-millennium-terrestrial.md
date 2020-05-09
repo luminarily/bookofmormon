@@ -83,6 +83,12 @@ We can infer that the law of the Millennium will be, basically, the Ten Commandm
 
 ## Terrestrial worlds are inhabited by terrestrial beings.
 
+Moroni says he was commanded to write about the The Secret Combination so that evil may be done away. I truly believe the implication of this is that we, as a planet, will take an active role in ushering in the Millenium by virtue of our turning to God and waking up to the truth:
+
+> 26 Wherefore, I, Moroni, am commanded to write these things that evil may be done away, and that the time may come that Satan may have no power upon the hearts of the children of men, but that they may be persuaded to do good continually, that they may come unto the fountain of all righteousness and be saved.
+> 
+> [Ether 8:26](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8.26?lang=eng#25)
+
 It makes logical sense that in order for a terrestrial world to be considered terrestrial, it may only be inhabited by terrestrial beings.
 
 This just makes sense to me and is related to the doctrine that no unclean thing can abide the presence of God (celestial glory).
