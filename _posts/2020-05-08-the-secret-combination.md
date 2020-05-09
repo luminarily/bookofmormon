@@ -73,7 +73,7 @@ It is becoming more and more apparent how such a phenomenon as putting good for 
 > 
 > [Luke 21:36](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/21.36?lang=eng#p36#36)
 
-If one doesn't wake up or wakes up too late, they risk putting evil for good. If they don't wake up, they see what the world wants them to see. If they wake up too late, they may call evil the good which has taken place (since they were blind to it). If you come late to an event and you don't recognize that you're late, you assume it hasn't started yet and so you wait for nothing. Everyone is gone and moved on.
+If one doesn't wake up or wakes up too late, they risk putting evil for good. If they don't wake up, they see what the world wants them to see. If they wake up too late, they may call evil the good which has taken place (since they were blind to it). If you come late to an event and you don't recognize that you're late, you assume it hasn't started yet and so you wait for nothing. Everyone is gone and moved on. Or... the deep-fakes have already gotten so advanced that by the time you wake up, you can dismiss everything as a contrived CGI or voice effect. Truth evades a casualness and nonchalantness.
 
 I am not surprised, though I am saddened, when Christians defend policies that are not moral nor good for society. I think this is partially a result of waking up "on the wrong side of the bed" and forming opinions based on a false premise.
 
