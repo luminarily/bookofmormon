@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning About Conspiracies Is Not Beyond The Mark."
+title: "Watch Ye Therefore"
 date: 2020-05-20 00:00:00 -0700
 tags: 'bible bookofmormon doctrineandcovenants secretcombinations politics'
 published: true
@@ -27,7 +27,7 @@ Most other discrepancies in thought can be resolved, but this engenders ignoranc
 > 
 > [Isaiah 1:18](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1.18?lang=eng&clang=eng#p18)
 
-# Exhibit A: Watch Ye Therefore
+# Exhibit A: Watch Ye Therefore / "No Man Knows The Hour"
 
 I have shared in many previous posts about [secret combinations]({% post_url 2020-05-08-the-secret-combination %}) and how Moroni says they were the cause of the destruction of the Nephite nation and how the Book of Mormon was written for our day, etc...
 
